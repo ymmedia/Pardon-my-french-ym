@@ -1,0 +1,255 @@
+@import '../../_master.scss';
+
+.titre-reveal{
+    font-style: bold;
+    font-family: $font-title;
+    color: white !important;
+    background-color: $orange !important;
+    height: 120px;
+    border-radius: 10px !important;
+    font-size: 24px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    & > h3{
+        font-size: 26px;
+        margin-left: 30px;
+        //border:1px solid white;
+        margin-bottom: 0px;
+        // margin-top: 5%;
+        // padding-top: 1%;
+    }     
+    & > p{
+        margin-left: 30px;
+        font-family: $font-content;
+        font-size: 18px;
+        margin-top: 15px !important;
+    }
+}
+.flippy-container{
+    height: 90% !important;
+}
+.content-reveal{
+    //overflow: scroll !important;
+    width: 100%;
+    height: 65vh !important;
+    background-color: white !important;
+    border-radius: 10px !important;
+    display: flex;
+    justify-content: center !important;
+    align-items: center!important;
+    //border:1px solid red ;
+    flex-wrap: wrap;
+    & .reveal-viewer {
+        display: flex !important;
+        width: 95%;
+        height: 80%;
+        //justify-content: space-between !important;
+        //flex-direction: column;
+        overflow: hidden;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: nowrap;
+        //border:1px solid red ;
+        margin-top: 10px !important;
+        & .card-viewport{
+         
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+            //border:2px solid blue;
+            height: 100% !important;
+            width: 100% !important;
+            .flippy-card-front{
+                border-radius:10px;
+                border: 1px solid $lightgray;
+                height: 100% !important;
+                width: 400px;
+                max-width: 400px !important;
+                margin:10px;
+                cursor: pointer;
+                .flippy-card-img-min{
+                    height: 100%;
+                    margin: auto !important;
+                    //border: 1px solid green;
+                    overflow: hidden;
+                    background-position: center;
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                }
+                .flippy-card-text{
+                    font-size: 20px;
+                    font-family: $font-title;
+                    
+                }  
+            }
+            .flippy-card-back{
+                border-radius:10px;
+                height: 100%;
+                width: 400px !important;
+                margin: auto !important;
+                background-color:$orange;
+                margin:10px;
+                cursor: pointer;
+                & .flippy-card-back-text{
+                    background-color:$orange;
+                    color:white;
+                    text-align: left;
+                    display: flex;
+                    font-size:16px;
+                }
+                & h3{
+                    font-size: 24px;
+                    font-family: $font-title;
+                }
+            }
+        }
+           
+        & .reveal-card-img-max{
+            height: 200px;
+            width: 250px;
+            margin: auto;
+            overflow: visible;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+            border: 1px solid $lightgray;
+            border-radius:10px;
+            cursor: pointer;
+        }
+        & .reveal-card-text{
+            height: 40% !important;
+            border-radius:10px;
+            border: 1.5px solid $lightgray;
+            margin:5px !important;
+            align-items: center;
+            width: 25% !important;
+            display: flex;
+            transition: color 0.5s, background-color 0.5s, scale 0.5s;
+            cursor: pointer;
+            & .text-reveal{
+                font-size: 16px !important;
+                font-family: $font-title;
+                margin: 0 auto;
+            }
+        }
+        & .reveal-card-text:hover{
+            background-color: $orange;
+            color: white;
+            //transform: scale(1.1);
+        }
+         
+        
+    }
+}
+.motion-end{
+    width: 100%;
+    //border:1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.reveal-bloc-btn{
+    //align-self: start;
+    display: flex;
+    justify-content: space-between;
+    //border:1px solid green;
+    width: 90%;
+   & .reveal-conclusion{
+       width: 75%;
+       height: 60px;
+       padding: 10px;
+       font-size: 16px;
+       //font-weight: bold;
+       text-align: left;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+    & .button-steps{
+       border-radius: 20px;
+       height: 45px;
+       width:200px;
+       font-size: 16px;
+       
+    }
+}
+ul{
+    margin-block-start: 0px !important;
+    margin-block-end: 0px !important;
+    padding-inline-start: 0px !important;
+}
+
+.reveal-modal{
+   //    position: absolute;
+    width:40vw;
+    height: 60vh;
+    color: white;
+    //border: 2px solid #000;
+    //box-shadow: 5px 5px 5px $lightgray;
+    padding: 25px 40px;
+    //top: 0%;
+    //left: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+    border-radius:10px;
+    background-color:$orange;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    //transform: translate(-50%, -50%);
+    & div>ul >li{
+        //border:1px solid white;
+        margin-bottom: 10px;
+    }
+  }
+
+  @media only screen and (max-width: 1500px) and (min-device-width: 480px) {
+    .titre-reveal{
+        height: 6rem;
+        line-height: 30px;
+        & > h3{
+            margin-top: 0;
+            padding-top: 1rem;
+        }     
+        & > p{
+            margin-top: 0;
+            line-height: 0;
+        }
+    }
+    .reveal-modal{
+        //top: 60%;
+      }
+}
+@media only screen and (max-width:1200px){
+    .reveal-modal{
+        //position: absolute;
+        width: calc((100vw/2) );
+        height: auto;
+        color: white;
+        //border: 2px solid #000;
+        //box-shadow: 5px 5px 5px $lightgray;
+        padding: 25px 40px;
+        //top: 80%;
+        //left: 40%;
+        margin-left: auto;
+        margin-right: auto;
+        outline: none;
+        border-radius:10px;
+        background-color:$orange;
+        font-size: 18px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        //transform: translate(-50%, -50%);
+        & div>ul >li{
+            //border:1px solid white;
+            margin-bottom: 10px;
+        }
+      }
+}
+

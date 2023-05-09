@@ -1,0 +1,114 @@
+@import '../_master.scss';
+
+
+.titre-quizzFinal{
+    font-style: bold;
+    font-family: $font-title;
+    color: white !important;
+    background-color: $orange !important;
+    height: 120px;
+    border-radius: 10px !important;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    & > h3{
+        font-size: 18px;
+        margin-left: 30px;
+    }     
+    & > p{
+        font-size: 15px;
+        margin-left: 30px;
+        font-family: $font-content;
+        font-size: 16px;
+        line-height: 16px;
+        margin-top: 0px;
+    }
+}
+.quizzFinal-img-bloc{
+    width: 100%;
+    height: 60vh !important;
+    background-color: white !important;
+    border-radius: 10px !important;
+    display: flex;
+    overflow: scroll !important;
+    & h3{
+        font-size: 56px;
+    }
+    .quizzFinal-img{
+        width: 100%;
+        margin-left: 3%;
+        border: 1px solid white;
+        border-radius: 5px;
+        background-position: center;
+        background-size: contain;
+        overflow: scroll;
+    } 
+}
+
+.quizzFinal-viewer {
+    display: flex;
+    width: 100%;
+    height: 70%;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;   
+    align-items: center;
+    & h3{
+        margin-bottom: 50px;
+        font-size: 24px;
+        text-align: center;
+    }
+    & p{
+        font-size: 18px;
+        text-align: left;
+    }
+    & img{
+        width: 70px;
+        height: 70px;
+        
+    }   
+}
+
+.quizzFinal-bloc-btn{
+    align-self: start;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  
+    & .button-quizzFinal{
+       border-radius: 20px;
+       height: 50px;
+       font-size: 15px;
+       width: 200px;
+       line-height: 17px;
+    }
+}
+ .quizz-feedback-wrapper{
+    //border:1px solid black;
+    width:100%;
+    & .quizz-feedback{
+        width: 70%;
+        height: 60px;
+        margin: 15px;
+        //border :1px solid red;
+        padding: 15px;
+        font-size: 16px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 8px;
+        //font-weight: bold;
+        text-align: left;
+        display: flex;
+        color: white;
+        justify-content: center;
+        align-items: center;
+    }
+    & .quizz-good{
+        background-color: green;
+    }
+    & .quizz-bad{
+        background-color: $red;
+    }
+    
+}

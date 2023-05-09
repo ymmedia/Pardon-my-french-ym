@@ -1,0 +1,2870 @@
+{
+    "options": {},
+    "title": "PARDON MY FRENCH",
+    "language": "fr",
+    "langs": [],
+    "ressources": [
+     {
+      "_id": 1,
+      "type": "lng",
+      "theme": 3,
+      "name": "Test de positionnement : FLE",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6738",
+      "viewed": false
+     },
+     {
+      "_id": 2,
+      "type": "lng",
+      "theme": 3,
+      "name": "Test de positionnement : ESL",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6745",
+      "viewed": false
+     },
+     {
+      "_id": 3,
+      "type": "lng",
+      "theme": 3,
+      "name": "Les déplacements A1/A2 ",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6741",
+      "viewed": false
+     },
+     {
+      "_id": 4,
+      "type": "lng",
+      "theme": 3,
+      "name": "Les déplacements B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6755",
+      "viewed": false
+     },
+     {
+      "_id": 5,
+      "type": "lng",
+      "theme": 3,
+      "name": "Les déplacements C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6761",
+      "viewed": false
+     },
+     {
+      "_id": 6,
+      "type": "lng",
+      "theme": 3,
+      "name": "Getting around A1/A2 ",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6748",
+      "viewed": false
+     },
+     {
+      "_id": 7,
+      "type": "lng",
+      "theme": 3,
+      "name": "Getting around B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6767",
+      "viewed": false
+     },
+     {
+      "_id": 8,
+      "type": "lng",
+      "theme": 3,
+      "name": "Getting around C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6773",
+      "viewed": false
+     },
+     {
+      "_id": 9,
+      "type": "lng",
+      "theme": 1,
+      "name": "Sur le campus A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6739",
+      "viewed": false
+     },
+     {
+      "_id": 10,
+      "type": "lng",
+      "theme": 1,
+      "name": "Sur le campus B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6752",
+      "viewed": false
+     },
+     {
+      "_id": 11,
+      "type": "lng",
+      "theme": 1,
+      "name": "Sur le campus C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6759",
+      "viewed": false
+     },
+     {
+      "_id": 12,
+      "type": "lng",
+      "theme": 1,
+      "name": "Campus life A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6746",
+      "viewed": false
+     },
+     {
+      "_id": 13,
+      "type": "lng",
+      "theme": 1,
+      "name": "Campus life B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6765",
+      "viewed": false
+     },
+     {
+      "_id": 14,
+      "type": "lng",
+      "theme": 1,
+      "name": "Campus life C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6771",
+      "viewed": false
+     },
+     {
+      "_id": 15,
+      "type": "lng",
+      "theme": 4,
+      "name": "La vie à la française A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6742",
+      "viewed": false
+     },
+     {
+      "_id": 16,
+      "type": "lng",
+      "theme": 4,
+      "name": "La vie à la française B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6756",
+      "viewed": false
+     },
+     {
+      "_id": 17,
+      "type": "lng",
+      "theme": 4,
+      "name": "La vie à la française C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6762",
+      "viewed": false
+     },
+     {
+      "_id": 18,
+      "type": "lng",
+      "theme": 4,
+      "name": "French way of life A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6749",
+      "viewed": false
+     },
+     {
+      "_id": 19,
+      "type": "lng",
+      "theme": 4,
+      "name": "French way of life B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6768",
+      "viewed": false
+     },
+     {
+      "_id": 20,
+      "type": "lng",
+      "theme": 4,
+      "name": "French way of life C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6774",
+      "viewed": false
+     },
+     {
+      "_id": 21,
+      "type": "lng",
+      "theme": 2,
+      "name": "La vie sociale A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6740",
+      "viewed": false
+     },
+     {
+      "_id": 22,
+      "type": "lng",
+      "theme": 2,
+      "name": "La vie sociale B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6754",
+      "viewed": false
+     },
+     {
+      "_id": 23,
+      "type": "lng",
+      "theme": 2,
+      "name": "La vie sociale C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6760",
+      "viewed": false
+     },
+     {
+      "_id": 24,
+      "type": "lng",
+      "theme": 2,
+      "name": "Social life A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6747",
+      "viewed": false
+     },
+     {
+      "_id": 25,
+      "type": "lng",
+      "theme": 2,
+      "name": "Social life B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6766",
+      "viewed": false
+     },
+     {
+      "_id": 26,
+      "type": "lng",
+      "theme": 2,
+      "name": "Social life C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6772",
+      "viewed": false
+     },
+     {
+      "_id": 27,
+      "type": "lng",
+      "theme": 5,
+      "name": "La vie professionnelle A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6743",
+      "viewed": false
+     },
+     {
+      "_id": 28,
+      "type": "lng",
+      "theme": 5,
+      "name": "La vie professionnelle B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6757",
+      "viewed": false
+     },
+     {
+      "_id": 29,
+      "type": "lng",
+      "theme": 5,
+      "name": "La vie professionnelle C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6763",
+      "viewed": false
+     },
+     {
+      "_id": 30,
+      "type": "lng",
+      "theme": 5,
+      "name": "Work life A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6750",
+      "viewed": false
+     },
+     {
+      "_id": 31,
+      "type": "lng",
+      "theme": 5,
+      "name": "Work life B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6769",
+      "viewed": false
+     },
+     {
+      "_id": 32,
+      "type": "lng",
+      "theme": 5,
+      "name": "Work life C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6775",
+      "viewed": false
+     },
+     {
+      "_id": 33,
+      "type": "lng",
+      "theme": 6,
+      "name": "L'administration française A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6744",
+      "viewed": false
+     },
+     {
+      "_id": 34,
+      "type": "lng",
+      "theme": 6,
+      "name": "L'administration française B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6758",
+      "viewed": false
+     },
+     {
+      "_id": 35,
+      "type": "lng",
+      "theme": 6,
+      "name": "L'administration française C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=61%26study_plan_unit_id=6764",
+      "viewed": false
+     },
+     {
+      "_id": 36,
+      "type": "lng",
+      "theme": 6,
+      "name": "French administration A1/A2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6751",
+      "viewed": false
+     },
+     {
+      "_id": 37,
+      "type": "lng",
+      "theme": 6,
+      "name": "French administration B1/B2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6770",
+      "viewed": false
+     },
+     {
+      "_id": 38,
+      "type": "lng",
+      "theme": 6,
+      "name": "French administration C1/C2",
+      "url": "https://prepmyfuture.com/api/v2/saml_auth?entity_id=omnesvivreenfrance&relay_state=%2Fplatform%2Fproduct_tabs%2Fstudy_plan_tab%2Fdisplay_single_unit%3Fproduct_id=63%26study_plan_unit_id=6776",
+      "viewed": false
+     },
+     {
+      "_id": 39,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Bordeaux Rue Raze",
+      "url": "https://app.home-viewer.com/viewer/?xml=256c744d6f",
+      "viewed": false
+     },
+     {
+      "_id": 40,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Bordeaux Quai de Bacalan",
+      "url": "https://my.matterport.com/show/?m=zagBNx2x93C",
+      "viewed": false
+     },
+     {
+      "_id": 41,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Lyon : Rue de l'Université",
+      "url": "https://my.matterport.com/show/?m=3RqFoYABWt2",
+      "viewed": false
+     },
+     {
+      "_id": 42,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Paris : Cœur  Défense",
+      "url": "https://www.youtube.com/watch?v=qMBW-GHzGBU",
+      "viewed": false
+     },
+     {
+      "_id": 43,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Paris : Eiffel 1",
+      "url": "https://app.home-viewer.com/viewer/?xml=ECE-Paris-Eiffel-1",
+      "viewed": false
+     },
+     {
+      "_id": 44,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Paris : Eiffel 2",
+      "url": "https://app.home-viewer.com/viewer/?xml=ECE-Paris-Eiffel-2",
+      "viewed": false
+     },
+     {
+      "_id": 45,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Paris : Eiffel 4",
+      "url": "https://app.home-viewer.com/viewer/?xml=ECE-Paris-Eiffel-4",
+      "viewed": false
+     },
+     {
+      "_id": 46,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Paris : Claude Vellefaux",
+      "url": "https://my.matterport.com/show/?m=kTHoN2Nahjm",
+      "viewed": false
+     },
+     {
+      "_id": 47,
+      "type": "campus",
+      "theme": 1,
+      "name": "Visite du campus Chambéry ",
+      "url": "https://www.youtube.com/watch?v=N3IcQxLibGw",
+      "viewed": false
+     },
+     {
+      "_id": 48,
+      "type": "bonus video",
+      "theme": 1,
+      "name": "Campus Life",
+      "url": "\t\r\nhttps://embed.api.video/vod/vi5gSKlKyt24CnLpjwdmPvId",
+      "viewed": false
+     },
+     {
+      "_id": 49,
+      "type": "bonus video",
+      "theme": 2,
+      "name": "Social Life",
+      "url": "https://embed.api.video/vod/vi45Vp4XWEAcZLJIBoextSdG",
+      "viewed": false
+     },
+     {
+      "_id": 50,
+      "type": "bonus video",
+      "theme": 3,
+      "name": "Getting around",
+      "url": "https://embed.api.video/vod/vi7etzDoVfgshDPx1oFMuCED",
+      "viewed": false
+     },
+     {
+      "_id": 51,
+      "type": "bonus video",
+      "theme": 4,
+      "name": "French way of life",
+      "url": "https://embed.api.video/vod/vi1mcnCO1kd45lWUkzBRaPHY",
+      "viewed": false
+     },
+     {
+      "_id": 52,
+      "type": "bonus video",
+      "theme": 5,
+      "name": "Work Life",
+      "url": "https://embed.api.video/vod/vit6W7AjCO9eO8KP1nqJuhO",
+      "viewed": false
+     },
+     {
+      "_id": 53,
+      "type": "bonus video",
+      "theme": 6,
+      "name": "French administration",
+      "url": "https://embed.api.video/vod/vi2dH6zdGOPijjAK7Or50Bh2",
+      "viewed": false
+     }
+    ],
+    "labels": [
+     {
+      "key": "TITLE",
+      "value": "DAC-6"
+     },
+     {
+      "key": "SUB-TITLE",
+      "value": "À LA DÉCOUVERTE DE DAC-6"
+     },
+     {
+      "key": "DOC-TAB",
+      "value": "INVENTAIRE"
+     },
+     {
+      "key": "HELP-TAB",
+      "value": "AIDE"
+     },
+     {
+      "key": "VALIDATE-BTN",
+      "value": "VALIDER"
+     },
+     {
+      "key": "START-BTN",
+      "value": "DÉMARRER "
+     },
+     {
+      "key": "REBOOT-BTN",
+      "value": "REPRENDRE"
+     },
+     {
+      "key": "QUIZZ-BTN",
+      "value": "VALIDER MES CONNAISSANCES"
+     },
+     {
+      "key": "DOC-BTN",
+      "value": "ANALYSER LA SITUATION"
+     },
+     {
+      "key": "MULTI-LABEL",
+      "value": "Plusieurs réponses possibles"
+     },
+     {
+      "key": "INTRO-LABEL",
+      "value": "Avant de démarrer !"
+     },
+     {
+      "key": "EXCIPIT-LABEL",
+      "value": "CONCLUSION"
+     },
+     {
+      "key": "EXCIPIT-PLUS",
+      "value": "CONCLUSION"
+     },
+     {
+      "key": "BTN-DOWNLOAD",
+      "value": "TÉLÉCHARGER LA FICHE"
+     },
+     {
+      "key": "QUIZZ-RESTART",
+      "value": "RECOMMENCER"
+     },
+     {
+      "key": "QUIZZ-QUIT",
+      "value": "QUITTER LE MODULE"
+     },
+     {
+      "key": "QUIZZ-NEXT",
+      "value": "QUESTION SUIVANTE"
+     },
+     {
+      "key": "QUIZZ-FEED-OK",
+      "value": "Bravo ! C'est la bonne réponse."
+     },
+     {
+      "key": "QUIZZ-FEED-NOK",
+      "value": "Désolé, votre réponse est inexacte."
+     },
+     {
+      "key": "LNG-LIB",
+      "value": "<p>Bienvenue ! Avant de débuter votre module, choisissez votre langue. </p>"
+     },
+     {
+      "key": "BTN-NEXT",
+      "value": "CONTINUER"
+     },
+     {
+      "key": "BTN-REVENIR",
+      "value": "REVENIR AU MENU"
+     },
+     {
+      "key": "QUIZZ-QUESTION",
+      "value": "Question #"
+     },
+     {
+      "key": "COMMENT-TXT",
+      "value": "COMMENTAIRE"
+     },
+     {
+      "key": "BTN-NEXT-2",
+      "value": "SUIVANT"
+     },
+     {
+      "key": "INFOX-LABEL",
+      "value": "FLASH INFOS"
+     },
+     {
+      "key": "INFOX-ALERTE",
+      "value": "alerte infos"
+     },
+     {
+      "key": "INFOX-GOOD",
+      "value": "BRAVO !"
+     },
+     {
+      "key": "INFOX-BAD",
+      "value": "DÉSOLÉ !"
+     },
+     {
+      "key": "MENU-ITEM",
+      "value": "MENU PRINCIPAL"
+     },
+     {
+      "key": "MENU-SAVE",
+      "value": "SAUVEGARDER ET QUITTER"
+     },
+     {
+      "key": "BTN-QUIT",
+      "value": "QUITTER ET SAUVEGARDER"
+     },
+     {
+      "key": "PROGRESS-LABEL",
+      "value": "Progression globale"
+     },
+     {
+      "key": "CLOSE-BTN",
+      "value": "FERMER"
+     },
+     {
+      "key": "NOTIF-MSG",
+      "value": "Vous avez débloqué <b>%%% nouvelles ressources</b>. Vous pouvez les consulter avant de continuer !"
+     },
+     {
+      "key": "DASH-LABEL",
+      "value": "VOTRE DASHBOARD"
+     },
+     {
+      "key": "RESSOURCES-LABEL",
+      "value": "RESSOURCES DÉBLOQUÉES :"
+     },
+     {
+      "key": "AUDIO-QUEST",
+      "value": "Quel est votre choix ?"
+     }
+    ],
+    "contents": {
+     "WELCOME": {
+      "TITRE": "<h1>&ldquo;Pardon my French!&rdquo;</h1><h2>A newcomer's journey</h2>",
+      "MSG": "\t<p>Welcome to this adventurous learning game that will help you succeed in your first steps in France!</p><p> Bienvenue dans cet étonnant jeu d'apprentissage qui t'aidera dans tes premiers pas en France !​</p><p>Choose your language.</p><p>Choisissez votre langue de consultation.</p>",
+      "IMG": "assets/INTRO/01_INTRO_round.png"
+     },
+     "INTRO": {
+      "TITRE": "Bienvenue !",
+      "MSG": "<p>Félicitations ! Si tu es ici, c’est que tu as déjà pris une décision très courageuse : tu as choisi de faire tes études en France.​</p><p>Tu te poses probablement beaucoup de questions, non seulement sur la vie en France mais aussi sur la meilleure façon de s'intégrer à l'école et dans la société. ​</p><p>Ce jeu a été spécialement conçu pour répondre à certaines de ces questions et pour t'équiper de tout un tas de conseils et d'outils pratiques pour la vie de tous les jours.​</p>\t",
+      "IMG": "assets/INTRO/02_INTRO_round.png"
+     },
+     "PERSO": {
+      "TITRE": "Voici Alice !",
+      "MSG": "<p>Dans ce jeu, tu vas suivre les aventures d'Alice, une étudiante à Omnes Education qui vient d’arriver en France. ​</p><p>Alice vient du Japon. Elle a 21 ans et fait des études de Marketing Management. Elle a deux passions dans la vie : la bonne nourriture et la peinture. Pas étonnant qu'elle ait choisi la France pour étudier ! Un détail amusant à son sujet ? Elle est ambidextre !​</p><p>Elle est ravie d'être ici, mais comme tu peux l'imaginer, elle est assez anxieuse. Heureusement, tu es là pour l'aider à prendre confiance en elle et à se sentir plus à l'aise dans ce nouveau pays ! ​​</p>\t",
+      "IMG": "assets/INTRO/03_Meet_Alice_round.png"
+     },
+     "RULES-1": {
+      "TITRE": "Règles du jeu 1/2",
+      "MSG": "<p>Maintenant que tu as rencontré Alice, ta mission consiste à la guider lors de son séjour en France. ​</p><p>À travers une série de situations (en vidéo, audio, photo ou texte), tu devras l'aider à prendre certaines décisions. Pour chaque décision, tu auras plusieurs possibilités, mais il n'y aura qu'une seule bonne réponse. Lorsque tu auras répondu correctement à une question, tu pourras passer à la suivante avec Alice.​​​</p>\t",
+      "IMG": "assets/INTRO/04_Regles-du-jeu-1_round.jpg"
+     },
+     "RULES-2": {
+      "TITRE": "Règles du jeu 2/2​",
+      "MSG": "<p>À la fin de chaque journée passée avec Alice, un ou deux thèmes seront débloqués – il y en a 6 au total. ​</p><p>Lorsque tu débloques un thème, tu débloques également l’accès à des ressources bonus qui te permettront de mieux comprendre l'expérience d’étudiants internationaux en France. Toutes les situations et les bonus seront accessibles à partir de ton tableau de bord.​</p><p>Alors, es-tu prêt•e à découvrir ce pays, avec ses coutumes parfois bien mystérieuses ? ​</p>\t",
+      "IMG": "assets/INTRO/05_Regles-du-jeu-2_round.jpg"
+     },
+     "MENU": {
+      "TITRE": "<h2>À toi de jouer !​</h2>\r\n<h3>Ton voyage commence ici.​​</h3>",
+      "MENU-ITEM-1": "<h4>Jour 1​​​</h4>\r\n<p>C'est le premier jour d'Alice en France ! Elle est très excitée de pouvoir enfin découvrir sa nouvelle ville. Aidons-la à explorer ce nouvel environnement !​​​</p>\t",
+      "MENU-IMG-1": "[assets/D1/images/Jour1_round.png]",
+      "MENU-ITEM-2": "<h4>Jour 2​​</h4>\r\n<p>C’est le premier jour de classe ! Alice va rencontrer de nouveaux amis et se familiariser avec son école française. ​​​</p>\r\n",
+      "MENU-IMG-2": "[assets/D2/images/Jour2_round.png]",
+      "MENU-ITEM-3": "<h4>Jour 3​​</h4>\r\n<p>Enfin, le week-end est arrivé ! Des démarches administratives, un diner entre amis… Comme d'habitude, Alice a un agenda bien chargé.​​​</p>\t",
+      "MENU-IMG-3": "[assets/D3/Jour3_round.png]",
+      "MENU-ITEM-4": "\r\n<h4>Jour 730</h4>\r\n<p>Alice est maintenant une étrangère expérimentée en France. Elle a commencé sa carrière dans une entreprise française &mdash; et cela lui réserve quelques surprises !​​​</p>",
+      "MENU-IMG-4": "[assets/D730/images/Jour4_round.png]"
+     },
+     "THEMES": {
+      "TAB": "LA VIE SUR LE CAMPUS;LA SOCIALISATION;LES DÉPLACEMENTS;LA VIE À LA FRANÇAISE;LA VIE PROFESSIONNELLE;L'ADMINISTRATION FRANÇAISE"
+     },
+     "RESSOURCES": {
+      "TAB": "RESSOURCES LINGUISTIQUES;VISITES VIRTUELLES DE CAMPUS;VIDÉO BONUS"
+     }
+    },
+    "quizz": [],
+    "chapters": [
+     {
+      "_id": "D1",
+      "title": "Jour 1​",
+      "resume": "C'est le premier jour d'Alice en France ! Elle est très excitée de pouvoir enfin découvrir sa nouvelle ville. Aidons-la à explorer ce nouvel environnement !​",
+      "illustration": [
+       "assets/D1/images/Jour1_round.png"
+      ],
+      "sequences": [
+       {
+        "_id": "S0",
+        "activities": [
+         {
+          "type": "INTRO",
+          "pic": "none",
+          "TITRE": "Jour 1 - INTRODUCTION",
+          "INCIPIT": "<p>C'est le premier jour d'Alice en France !​</p><p>Elle a prévu de passer un peu de temps à se promener dans la ville pour découvrir son nouvel environnement et quelques heures à visiter le campus. ​</p><p>Que veux-tu qu'elle fasse en premier ?</p>",
+          "choices": [
+           {
+            "item": "Se rendre sur le campus​",
+            "value": "goto#S4",
+            "img": "[assets/D1/images/Jour1_A_Se-rendre-sur-le-campus_round.jpg]"
+           },
+           {
+            "item": "Visiter la ville​",
+            "value": "goto#S1",
+            "img": "[assets/D1/images/Jour1_B_Visiter-la-ville_round.png]"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_id": "S1",
+        "activities": [
+         {
+          "type": "INTRO",
+          "pic": "[assets/D1/images/Jour1_B_Visiter-la-ville_round.png]",
+          "TITRE": "VISITER LA VILLE​",
+          "INCIPIT": "<p>Alice est impatiente de visiter la ville ! Elle en a vu dans de nombreux films et émissions de télévision et elle trouve les villes françaises si charmantes ! ​<p/><p>En se promenant, Alice tombe sur un marché. Pourquoi ne pas l'aider à choisir quelques produits pour remplir son frigo ?</p>"
+         },
+         {
+          "type": "VIDEO",
+          "TITRE": "Au marché ",
+          "items": [
+           {
+            "question": "Comment Alice doit-elle choisir ses fruits et légumes\u202f?",
+            "video": "vi1EJcUfE0ZrdsxM9hTNtFb5",
+            "choices": [
+             {
+              "lib": "Les prendre à la main et les tendre au vendeur",
+              "value": 0
+             },
+             {
+              "lib": "Dire au vendeur les fruits et légumes qu’elle souhaite acheter",
+              "value": 1
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi7hrZlXODB3EX40O4lEOYG6",
+              "lib": "Certains stands autorisent de se servir seul, mais il faut d’abord s’assurer que c'est l'un d'entre eux avant de le faire ! Si des paniers sont mis à disposition des clients, il est autorisé d’en prendre un et de le remplir avec les aliments que tu souhaites, avant de le tendre à un vendeur pour qu’il pèse et calcule le prix. Mais dans la plupart des stands, ce sont les vendeurs qui servent les clients. Il faut alors leur indiquer les produits et la quantité désirés et ce sont les vendeurs qui choisissent. ",
+              "value": "Average"
+             },
+             {
+              "video": "vi1K6AzDwj55YalPOKruAA1V",
+              "lib": "Alice n’a pas supposé qu'il s’agissait d'un stand en libre-service, c’est bien\u202f! Le plus simple pour savoir comment faire est d’observer les autres clients. Attention\u202f: certains produits ont un prix au kilo\u202f; cela veut dire que tu payes en fonction du poids total. Tu verras alors sur les panneaux des prix une mention «\u202fXX € / kg\u202f». D’autres produits ont un prix à la pièce, cela veut dire que tu payes en fonction de la quantité et non du poids. Tu verras alors «\u202fXX € / p\u202f». ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Qu’a pris Alice avec elle pour porter ses courses\u202f? ",
+            "video": "vi3U5MUyP8mC1Qh25Tm5uN6c",
+            "choices": [
+             {
+              "lib": "Rien du tout ",
+              "value": 0
+             },
+             {
+              "lib": "Un chariot de courses ou un tote-bag",
+              "value": 1
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3NU7aNIL9XsmCRrpFsewFv",
+              "lib": "La plupart des vendeurs ne fournissent pas de sacs pour transporter les achats mais seulement des petits sachets en papier pour emballer les consommables. Qu’est-ce qu’Alice aurait pu prendre avec elle\u202fpour transporter tout cela ? ",
+              "value": "Average"
+             },
+             {
+              "video": "vi1Id6aGaZFFDG1BuHzQ3cpq",
+              "lib": "<p>Un tote-bag permettra à Alice de tout ramener plus facilement à la maison\u202f! Tu peux aussi opter pour un chariot de course, très fréquents sur les marchés. Les chariots ont pendant un temps été l’apanage des vieilles personnes – au point qu’on les appelle «\u202fchariots de mémé\u202f»\u202f! Mais depuis quelques années, les jeunes citadins ne faisant pas leurs courses en voiture en ont saisi toute l’utilité et tu verras désormais beaucoup de monde en utiliser\u202f!  </p><p>Il va sans dire qu’Alice a apporté de l’argent liquide (billets de 10 et 20 euros... il vaut mieux éviter les grosses coupures) et une carte de crédit, car de nombreux commerçants permettent d'utiliser une carte de crédit au-delà d'un certain montant. </p>",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Que répond Alice\u202f? ",
+            "video": "vi1m1nbHnyiFhzsGFs2aJGWj",
+            "choices": [
+             {
+              "lib": "«\u202fUn peu moins, s’il vous plaît.\u202f»",
+              "value": 0
+             },
+             {
+              "lib": "«\u202fNon, moins.\u202f»",
+              "value": 1
+             },
+             {
+              "lib": "«\u202fOK.\u202f»",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3E9dJRGXenihfJup4DAP4a",
+              "lib": "C’est la meilleure réponse car la plus polie ! Le fromager ne sera pas étonné qu’Alice en demande moins, il est habitué. N'hésite pas à glisser un petit &laquo; s'il vous plait &raquo; à chacune de tes demandes &mdash; et d’ajouter &laquo; merci &raquo; et &laquo; au revoir &raquo;\u202f! ",
+              "value": "Correct"
+             },
+             {
+              "video": "viZhs0igJMqsVLJgVqsacug",
+              "lib": "Le prix dépend du poids total du morceau de fromage. Le prix affiché en vitrine est généralement le prix pour 1 kilo. Alice a donc tout à fait raison de demander moins si elle ne souhaite pas un tel morceau. Le vendeur est habitué à cela. Cependant, la politesse est toujours requise dans tes interactions avec les Français.  ",
+              "value": "Average"
+             },
+             {
+              "video": "vi5sNkrP6zjaLV9prGKBRYLb",
+              "lib": "Hop hop hop, attends un instant. Chez les fromagers, le prix du fromage est au poids. Le prix affiché en vitrine est le prix pour 1 kilo. Si tu prends un morceau très gros, le prix risque d’être très élevé. N'hésite pas à demander moins lorsque le vendeur te propose une quantité (tu peux aussi demander plus, bien entendu\u202f!). Les fromagers te proposeront souvent un gros morceau mais sont habitués à ce qu'on leur demande de diminuer.  ",
+              "value": "False"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "lib": "Avec tous ces bons produits, Alice a de quoi se régaler les prochains jours ! Elle continue maintenant sa ballade pour découvrir la ville.",
+           "video": "vivC5p6vb96LWDz5KXYJf5Z",
+           "action": "next"
+          }
+         }
+        ]
+       },
+       {
+        "_id": "S2",
+        "activities": [
+         {
+          "type": "AUDIO",
+          "pic": "[assets/D1/images/Jour1_B_Visiter-la-ville_round.png]",
+          "TITRE": "Perdue dans la ville",
+          "items": [
+           {
+            "question": "<p>La découverte de cette nouvelle ville est grisante mais déambuler dans ces rues a donné faim à Alice. Elle a bien du fromage dans son sac mais sans pain, il parait que c’est moins bon. Elle voudrait trouver une de ces fameuses boulangeries françaises dont elle a entendu parler. Mais elle est un peu perdue et ne sait pas vraiment où se diriger.</p>",
+            "audio": "[assets/D1/sound/1.0_INTRO.mp3]",
+            "choices": [
+             {
+              "lib": "Interpeller un passant en disant : « Bonjour, excusez-moi, je suis perdue, pouvez-vous m’aider s’il vous plaît ? »",
+              "value": 2
+             },
+             {
+              "lib": "Interpeller un passant en disant « Tu peux m’aider ? »",
+              "value": 1
+             },
+             {
+              "lib": "Aller tout droit et continuer à chercher",
+              "value": 0
+             }
+            ],
+            "feedbacks": [
+             {
+              "audio": "[assets/D1/sound/1.3.mp3]",
+              "lib": "Être très poli et aller droit au but peut être difficile mais c’est nécessaire. Les Français sont souvent suspicieux de ceux qui les interpelle dans la rue – Alice doit donc être très rapide pour leur expliquer qu’elle n’a besoin que de leur connaissance de la ville. D’ailleurs, elle a utilisé le vouvoiement et c’est très juste : on ne tutoie pas un inconnu dans la rue.",
+              "value": "Correct"
+             },
+             {
+              "audio": "[assets/D1/sound/1.2.mp3]",
+              "lib": "Aïe, ce genre de réponse n’est franchement pas agréable, d'autant que nous insistons sur le fait que les Français sont rigoureux sur la politesse ! Mais d’ailleurs, et si c’était ça qui manquait à Alice ici ?",
+              "value": "Average"
+             },
+             {
+              "audio": "[assets/D1/sound/1.1.mp3]",
+              "lib": "Les rues défilent et aucune boulangerie en vue. Ce quartier est très résidentiel et il n’y a aucun commerce... Parfois, c'est amusant de se promener et de se perdre. Alice pourrait découvrir des endroits sympas. Cependant, elle a une journée chargée et se sent un peu fatiguée. Elle ne veut pas passer trop de temps à errer sans but. Ne serait-il pas amusant de s'entraîner à demander son chemin ?",
+              "value": "False"
+             }
+            ]
+           },
+           {
+            "question": "La passante donne des indications à Alice, mais Alice ne comprend pas ce qu'elle dit…",
+            "audio": "[assets/D1/sound/2.0_INTRO.mp3]",
+            "choices": [
+             {
+              "lib": "« Pouvez-vous répéter plus doucement, s’il vous plaît ? »",
+              "value": 2
+             },
+             {
+              "lib": "« Je n’ai rien compris. »",
+              "value": 1
+             },
+             {
+              "lib": "« Merci, au revoir... »",
+              "value": 0
+             }
+            ],
+            "feedbacks": [
+             {
+              "audio": "[assets/D1/sound/2.3.mp3]",
+              "lib": "Bien joué ! Alice a été polie en demandant à la passante de répéter ses indications – cela sera toujours apprécié. Elle peut également préciser qu’elle n’est pas francophone.",
+              "value": "Correct"
+             },
+             {
+              "audio": "[assets/D1/sound/2.2.mp3]",
+              "lib": "C’est bien, Alice a osé dire qu’elle n’avait pas compris. Mais il y a peut-être une meilleure façon de demander à la passante de répéter !",
+              "value": "Average"
+             },
+             {
+              "audio": "[assets/D1/sound/2.1.mp3]",
+              "lib": "C'est pourtant une occasion de pratiquer un peu le français. Alice peut certainement trouver un moyen d’indiquer poliment à la passante qu’elle n’a pas compris.",
+              "value": "False"
+             }
+            ]
+           },
+           {
+            "question": "\r\n<p>Alice continue à marcher en direction de la boulangerie, en suivant les indications qui lui ont été données. Elle reçoit un message sur son téléphone – la tête baissée sur son écran, elle ne regarde plus devant elle. Elle percute un passant aussi distrait qu'elle.</p>",
+            "audio": "[assets/D1/sound/3.0_INTRO_V2.mp3]",
+            "choices": [
+             {
+              "lib": "Elle dit : « Oh, je suis désolée ! »",
+              "value": 2
+             },
+             {
+              "lib": "Elle sourit et dit en rigolant : « Oups ! »",
+              "value": 1
+             },
+             {
+              "lib": "Elle dit : « Hé, vous pouvez regarder où vous allez ! »",
+              "value": 0
+             }
+            ],
+            "feedbacks": [
+             {
+              "audio": "[assets/D1/sound/3.3_V2.mp3]",
+              "lib": "Dans cette situation, il est en effet suffisant de simplement dire « désolé », « pardon » ou « excusez-moi »  – à moins d’avoir vraiment blessé l’autre personne. Par ailleurs, Alice va vite découvrir que les gens ne se prêtent pas vraiment attention dans la rue en France. Dans certaines cultures, il peut être courant d'établir un contact visuel ou de dire « bonjour » aux passants, mais en France (et en particulier dans les grandes villes), sourire aux inconnus n'est pas courant et peut même être considéré comme bizarre.",
+              "value": "Correct"
+             },
+             {
+              "audio": "[assets/D1/sound/3.2_V2.mp3]",
+              "lib": "Alice va vite découvrir que les gens dans la rue en France ne sont pas forcément très amicaux, surtout dans les grandes villes... Ils ne prêtent pas vraiment attention aux autres. Bien sûr, dans cette situation spécifique, il serait impoli de ne rien dire après avoir bousculé quelqu'un.",
+              "value": "Average"
+             },
+             {
+              "audio": "[assets/D1/sound/3.1_V2.mp3]",
+              "lib": "De toute évidence, c'est la mauvaise réponse pour plusieurs raisons. Tout d'abord, Alice lui est rentrée dedans. Deuxièmement, qu’elle soit bousculeur ou bousculée, un peu de civilité est requise dans cette situation !",
+              "value": "False"
+             }
+            ]
+           }
+          ],
+          "QUESTION": "<p>Comment Alice va-t-elle réagir ?</p>",
+          "CONCLUSION": "<p>Alice est enfin arrivée à la boulangerie ! Elle se note de ne pas oublier de faire attention à ce qui l'entoure pour ne pas se perdre à nouveau. ​</p><p>Alice peut déjà sentir l’odeur du pain frais qui l'attire dans la boulangerie – miam !</p>"
+         }
+        ]
+       },
+       {
+        "_id": "S3",
+        "activities": [
+         {
+          "type": "VIDEO",
+          "TITRE": "À la boulangerie",
+          "items": [
+           {
+            "question": "Comment Alice répond-elle ?",
+            "video": "vi7RZoqmBDoS7akhrLbnz4vd",
+            "choices": [
+             {
+              "lib": "« Une baguette et un pain au chocolat. »",
+              "value": 0
+             },
+             {
+              "lib": "« Hello, I would like a baguette and a chocolate bread please. »",
+              "value": 1
+             },
+             {
+              "lib": "« Bonjour madame, un baguette et une pain à la chocolate s’il vous plait »",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi5KtV4EomHkbPt4VoxQ62Sb",
+              "lib": "Aïe, Alice a oublié de dire &laquo; Bonjour &raquo; et &laquo; s'il vous plaît &raquo; ! Selon l'humeur de la personne en face, elle pourrait recevoir une leçon de politesse. Assure-toi qu’Alice utilise bien les &laquo; formules de politesse &raquo; la prochaine fois !",
+              "value": "False"
+             },
+             {
+              "video": "vi55Pqps4geTUXHawUM6tdFk",
+              "lib": "La boulangère ne parle pas l'anglais, ça ne vas pas être simple de passer commande. Considère chacune de ces courtes sorties comme une opportunité de pratiquer un peu de français. Peu importe si ce n’est pas un français parfait, le principal c’est d’essayer !",
+              "value": "Average"
+             },
+             {
+              "video": "vi2LmWFyxM9jJoziHJdnn06H",
+              "lib": "Bien joué ! Alice a été polie et confiante et elle a pu demander ce qu’elle voulait. Les Français vont souvent apprécier les efforts faits pour communiquer avec eux dans leur langue. Ils pardonneront d’ailleurs très facilement les erreurs entre le féminin et le masculin : ici c’est « une baguette » et « un pain au chocolat ». Il existe d’ailleurs de nombreux type de baguettes – la préférée des Français étant la « baguette tradition ». Concernant le pain au chocolat, il peut également être appelé « chocolatine » dans certaines régions, notamment dans le Sud-Ouest.",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Que répond Alice ?",
+            "video": "vi58fiFEVLmV8R80S33M1BgB",
+            "choices": [
+             {
+              "lib": "« Wait, what ? »",
+              "value": 0
+             },
+             {
+              "lib": "« Je n’ai pas compris. »",
+              "value": 1
+             },
+             {
+              "lib": "« Ce sera tout, merci. »",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "viCnv5SxIeFe5VcaVccd2Ww",
+              "lib": "Le stress peut parfois être paralysant et nous enlever les mots de la bouche – tu t’habitueras à ne pas tout comprendre et à demander des explications supplémentaires. « Et avec ceci ? » est une expression très courante en France. Les vendeurs posent souvent cette question une fois qu'ils ont préparé la commande, pour demander si tu souhaites acheter autre chose.",
+              "value": "False"
+             },
+             {
+              "video": "vi6VBt8IRFL97cqfM7QQImuY",
+              "lib": "C'est une très bonne habitude d’indiquer directement si tu n’as pas compris quelque chose en français. Cela t’aidera à t’améliorer ! &laquo; Et avec ceci ? &raquo; est une expression très courante en France. Les vendeurs posent souvent cette question une fois qu'ils ont préparé la commande, pour demander si tu souhaites acheter autre chose. Maintenant que tu sais ce que cela signifie, que peut répondre Alice ?",
+              "value": "Average"
+             },
+             {
+              "video": "vi3wKip5l3N0VpchP411B0Wl",
+              "lib": "Bravo – C’est une façon très gentille et polie de répondre qu’Alice a demandé tout ce qu’elle voulait acheter.",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Comment Alice va-t-elle payer ?",
+            "video": "vi4BpS1hVtvZXBXkVuWmttlM",
+            "choices": [
+             {
+              "lib": "Avec un billet de 50 euros",
+              "value": 0
+             },
+             {
+              "lib": "Avec sa carte bleue",
+              "value": 1
+             },
+             {
+              "lib": "Avec un billet de 5 euros",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3PyzbK8AyqaKyDNiaXFtMx",
+              "lib": "Pour régler de petites sommes d'argent, les petits commerces préfèrent toujours les petites coupures : pièces ou billets de 5 ou 10 euros. De grosses coupures (20, 50 ou 100 euros) peuvent les mettre dans l'embarras s'ils n'ont pas assez d'espèces en caisse pour pouvoir rendre la monnaie.",
+              "value": "False"
+             },
+             {
+              "video": "vi29tPwtoVKwxOEddVIj5Mv4",
+              "lib": "De nombreux magasins (en particulier les petits commerces familiaux) exigent un minimum de 10 ou 15 euros pour payer par carte, en raison de la commission qu'ils versent sur les achats par carte bancaire. Cela évolue petit à petit et de plus en plus de magasins autorisent des petits paiements par carte – mais il faut toujours prévoir de la monnaie pour les petits achats. Si tu n’as pas d'argent liquide sur toi, tu peux demander à aller retirer de l'argent au distributeur le plus proche. Attention, très peu de commerces acceptent American Express. Cette information est souvent affichée à l’aide d’autocollants sur la porte ou la devanture du magasin.",
+              "value": "Average"
+             },
+             {
+              "video": "vi78i1xDexSGviCrP7kb3Ov9",
+              "lib": "Alice a bien anticipé et a prévu d’avoir de la monnaie avec elle pour les petits achats. C’est très bien pensé car de nombreux commerces ne prennent pas la carte en dessous de 10 ou 15 euros. En France, le prix d’une baguette varie entre 80 centimes et 1,30 euros. Les croissants ou les pains au chocolat eux se trouvent généralement autour d’1 euro.",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Ce sac est trop petit, le pain dépasse ! Que devrait faire Alice ?",
+            "video": "vi71WuUr78OSDOlagAWAm1qo",
+            "choices": [
+             {
+              "lib": "Demander un autre sac car celui-ci est trop petit",
+              "value": 0
+             },
+             {
+              "lib": "Couper la baguette en deux pour la faire rentrer dans le sac",
+              "value": 1
+             },
+             {
+              "lib": "Prendre la baguette, remercier la boulangère et lui souhaiter une bonne journée",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi1jVuRVfavQMHa6fECk3iTZ",
+              "lib": "Tout comme tu devras t’habituer aux gens qui mettent le pain directement sur la table à côté de leur assiette, tu devras t’habituer au pain frais qui dépasse du sac. Alice peut en profiter pour manger le bout du morceau qui dépasse &mdash; c'est la tradition ! À Rome, fais comme les romains.",
+              "value": "Average"
+             },
+             {
+              "video": "vi1HQhpw8i2mUYswz8mSEGx4",
+              "lib": "Nope – certains Français pourraient crier au sacrilège ! Cela peut paraître étrange au début mais la baguette dépasse toujours du sac. C’est peut-être pour permettre d’en croquer un bout !",
+              "value": "False"
+             },
+             {
+              "video": "vi7fReLyFw6BftChsjBwo7zn",
+              "lib": "Et voilà, Alice est presque déjà devenue Française ! La baguette dépasse en effet toujours de son sac et les Français adorent croquer le « crouton » sur le chemin du retour. Bon appétit !",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "video": "vi5IkrLgyapfSNwLadDGoeAD",
+           "action": "next"
+          }
+         },
+         {
+          "type": "BRANCH",
+          "items": [
+           {
+            "lib": "Maintenant qu'Alice a fait quelques expériences typiques de la France, elle est prête à faire un petit tour sur son campus.​",
+            "action": "S4",
+            "img": "[assets/D1/images/Jour1-Conclusion_round.png]",
+            "link": "S4"
+           },
+           {
+            "lib": "Alice a bien profité de sa première journée et peut s'offrir, grâce à toi, un repos bien mérité !",
+            "action": "S5",
+            "img": "[assets/D1/images/Jour1-Conclusion_round.png]",
+            "link": "S4"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_id": "S4",
+        "activities": [
+         {
+          "type": "INTRO",
+          "pic": "[assets/D1/images/Jour1_A_Se-rendre-sur-le-campus_round.jpg]",
+          "TITRE": "SE RENDRE SUR LE CAMPUS",
+          "INCIPIT": "<p>Alice est super excitée à l'idée de se rendre sur son nouveau campus. Elle a vu des photos et des vidéos, mais ce sera la première fois qu'elle mettra les pieds dans l'enceinte de l'école. Mais d'abord, elle doit s'y rendre... Aidons-la à utiliser les transports publics français.​<p/>"
+         },
+         {
+          "type": "QUIZZ",
+          "TITRE": "Les titres de transport​",
+          "items": [
+           {
+            "question": "<p>Alice est très excitée d’aller découvrir son nouveau campus ! Elle a regardé sur internet comment s’y rendre et a vu que le plus simple est de prendre un bus. Elle ne sait pas encore très bien comment fonctionne les transports en commun en France mais ce qui est certain, c’est qu’il faut d’abord qu’elle achète un titre de transport. </p><p>Où peut-elle acheter son titre de transport\u202f? </p>",
+            "choices": [
+             {
+              "lib": "À un arrêt de bus ",
+              "value": 0
+             },
+             {
+              "lib": "Sur internet",
+              "value": 1
+             },
+             {
+              "lib": "À un guichet",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "Il n’y a que très rarement la possibilité d’acheter des tickets aux arrêts de bus : il n’y a ni guichet, ni distributeur automatique. On peut généralement en trouver aux stations de tram, de métro ou de train. Attention, il est également rare de pouvoir acheter un ticket directement dans le bus auprès du chauffeur. ",
+              "value": "False"
+             },
+             {
+              "lib": "C’est vrai qu’acheter ses titres de transport sur internet peut s’avérer bien pratique. C’est rapide, pas besoin de trouver un distributeur ou un guichet, le paiement se fait facilement… Cependant, il y a une telle diversité d’offres que cela peut être compliqué de s’y retrouver lorsqu’on vient d’arriver dans une nouvelle ville. ",
+              "value": "Average"
+             },
+             {
+              "lib": "S’adresser à un guichet est en effet le mieux pour débuter. Alice pourra y trouver des conseils sur le meilleur choix de ticket ou d’abonnement en fonction de son besoin. Attention, ça lui demandera un petit détour car les guichets ne se trouvent pas aux arrêts de bus mais le plus souvent dans les stations de métro et de train ou dans des agences spécifiques. Elle pourra également y trouver des distributeurs automatiques, qui sont très pratiques lorsqu’on sait ce qu’on veut acheter. On peut également trouver des distributeurs aux arrêts de tramway. ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "<p>Après avoir regardé sur le site web du réseau de transports en commun, Alice a repéré un guichet à quelques pas de là. Elle s’y rend puis fait la queue, il y a quelques clients devant elle. Elle arrive finalement face à un agent et lui explique sa situation\u202f: elle vient d’arriver en France pour plusieurs mois et souhaite pouvoir se déplacer tout au long de la journée. </p><p>Quel titre de transport Alice devrait-elle demander ?  </p>",
+            "choices": [
+             {
+              "lib": "Un ticket à l’unité",
+              "value": 0
+             },
+             {
+              "lib": "Un ticket journée",
+              "value": 1
+             },
+             {
+              "lib": "Un forfait mensuel ou annuel",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "Les tickets à l’unité permettent de faire un seul trajet. Ils sont donc utiles en cas de déplacement ponctuel. Mais puisqu’Alice a un plusieurs déplacements prévus, cela risque de couter lui cher. ",
+              "value": "False"
+             },
+             {
+              "lib": "Le ticket journée permet de se déplacer de façon illimitée pendant 24h. C’est très utile lorsque plusieurs déplacements sont prévus sur une seule journée. Cette option reviendra moins cher qu’un grand nombre de tickets à l’unité. Cela peut être intéressant pour un court séjour mais nous savons qu’Alice est là pour plusieurs mois. Un ticket journée ne sera donc pas la solution la plus économique dans cette situation. ",
+              "value": "Average"
+             },
+             {
+              "lib": "En effet, lorsque l’on va effectuer de nombreux déplacements en transport en commun sur une longue période, il est plus économique d’opter pour un forfait mensuel ou annuel. Les forfaits permettent des déplacements illimités sur tout ou partie du réseau de transport en commun de la ville. ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "<p>Alice a fait son choix, elle optera pour un forfait. Elle aura donc une carte avec elle (appelé aussi parfois &laquo; pass &raquo; ) et pourra se déplacer autant qu’elle le souhaite. C’est très pratique car elle compte bien visiter la ville dans ses moindres recoins\u202f! Elle sort son porte-monnaie pour régler et récupérer sa carte. Au moment de payer, elle se dit tout de même que c’est un peu cher et qu’elle aimerait bien avoir des réductions.</p><p>Alice peut-elle prétendre à des réductions\u202f? </p>",
+            "choices": [
+             {
+              "lib": "Non, il n’y a aucune réduction possible sur les transports en commun en France.",
+              "value": 0
+             },
+             {
+              "lib": "Non, les réductions sont pour les personnes au chômage ou à la retraite.",
+              "value": 1
+             },
+             {
+              "lib": "Oui, en tant que jeune étudiante, elle peut profiter de réductions.",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "Au contraire, il y a une très grande diversité d’offre en fonction de différents critères. Cela vaut toujours le coup de demander aux agents quelles réductions sont possibles en fonction de sa situation. ",
+              "value": "False"
+             },
+             {
+              "lib": "Il existe en effet des réductions pour les personnes au chômage et à la retraite. Mais il y en a aussi pour les jeunes, les étudiants, les enfants, les familles nombreuses, les personnes à faible revenus… N’hésite pas à poser la question avant d’acheter un ticket ou un forfait, en tant qu’étudiant, il y a souvent des réductions (et pas seulement dans les transports en commun). ",
+              "value": "Average"
+             },
+             {
+              "lib": "Tout à fait ! Il existe beaucoup de différents critères qui donnent accès à des réductions pour les transports en commun. Être étudiant peut en être un, tout comme être âgé de moins de 26 ans. Ces critères dépendent des villes – il ne faut pas hésiter à se renseigner au préalable\u202f!",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": "<p>Grâce à toi, Alice a désormais un titre de transport et peut se déplacer à volonté dans la ville\u202f! Elle va pouvoir maintenant prendre le bus qui l'emmènera sur le campus. Mais lorsqu'on ne connait pas les usages, ce n'est pas évident... Faut-il monter par la porte avant, au milieu ou par derrière ? Quels sont les usages pour s’asseoir dans le bus ? Comment faire pour descendre ? Il y a quelques astuces à savoir\u202f! </p>"
+         },
+         {
+          "type": "IMAGES",
+          "TITRE": "Prendre le bus​",
+          "items": [
+           {
+            "question": "\r\nPar quelle porte Alice doit-elle rentrer ?",
+            "images": "[assets/D1/roman/LeBus-1.0a0A.png,assets/D1/roman/LeBus-1.0a0B.png,assets/shim.png,assets/D1/roman/LeBus-1.0a1A.png,assets/D1/roman/LeBus-1.0a1B.png,assets/D1/roman/LeBus-1.0a1C.png,assets/D1/roman/LeBus-1.0a1D.png,assets/shim.png,assets/D1/roman/LeBus-1.0a2A.png,assets/D1/roman/LeBus-1.0a2B.png,assets/shim.png,assets/D1/roman/LeBus-1.0a3A.png,assets/D1/roman/LeBus-1.0a3B.png]",
+            "choices": [
+             {
+              "lib": "Par la porte arrière du bus",
+              "value": 0
+             },
+             {
+              "lib": "Par la porte avant du bus",
+              "value": 1
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D1/roman/LeBus-1.2A.png,assets/D1/roman/LeBus-1.2B.png,assets/D1/roman/LeBus-1.2.1A.png,assets/D1/roman/LeBus-1.2.1B.png,assets/D1/roman/LeBus-1.2.1C.png]",
+              "lib": "Aïe, le chauffeur a rappelé Alice à l’ordre. Dans ce bus-là, il faut donc monter par la porte avant…\t",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D1/roman/LeBus-1.3A.png,assets/D1/roman/LeBus-1.3B.png]",
+              "lib": "<p>Il existe plusieurs types de bus en France. Certains, comme celui d’Alice, ont une porte à l’avant et une porte au milieu du bus. Dans ces cas-là, la montée dans le bus se fait par la porte avant et la porte arrière est réservée à la descente. D’autres bus, plus longs, ont une troisième voire une quatrième porte. Dans ces cas-là, la montée se fait par n’importe quelle porte.</p><p>Attention, le bus ne s’arrête pas nécessairement à tous les arrêts. Il faut donc faire un signe au conducteur en levant le bras pour lui signaler que tu veux monter.</p>",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Que doit faire Alice une fois dans le bus ?",
+            "images": "[assets/D1/roman/LeBus-1.3.png]",
+            "choices": [
+             {
+              "lib": "S’asseoir dès qu’elle trouve une place libre",
+              "value": 0
+             },
+             {
+              "lib": "Valider son titre de transport puis se maintenir à la barre la plus proche",
+              "value": 1
+             },
+             {
+              "lib": "Valider son titre de transport puis avancer vers l’arrière du bus",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D1/roman/LeBus-2.1A.png,assets/D1/roman/LeBus-2.1B.png]",
+              "lib": "Il faut toujours valider son ticket ou son pass en rentrant dans le bus. Même quand tu as ton pass avec toi, si jamais tu oublies de le valider, tu risques de recevoir une amende. Ne pas avoir de pass ou de ticket entraînera une amende encore plus importante.",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D1/roman/LeBus-2.2A.png,assets/D1/roman/LeBus-2.2B.png,assets/D1/roman/LeBus-2.2C.png,assets/D1/roman/LeBus-2.2.1A.png,assets/D1/roman/LeBus-2.2.1B.png,assets/D1/roman/LeBus-2.2.1C.png]",
+              "lib": "L’usage dans les bus bondés est de se déplacer le plus loin possible vers l'arrière. Cela permettra à plus de personnes de monter dans le bus sans perdre de temps.",
+              "value": "Average"
+             },
+             {
+              "images": "[assets/D1/roman/LeBus-2.3A.png,assets/D1/roman/LeBus-2.3B.png,assets/D1/roman/LeBus-2.3C.png,assets/D1/roman/LeBus-2.3.1A.png,assets/D1/roman/LeBus-2.3.2A.png,assets/D1/roman/LeBus-2.3.2B.png]",
+              "lib": "Bien joué ! Lorsque tu montes à l'avant d'un bus, c'est une bonne chose d’aller vers l’arrière du bus afin de faire de la place pour les passagers derrière toi. Lorsqu’un bus est bondé, attention à toujours garder un œil sur tes poches et tes affaires, il peut parfois y avoir des pickpockets.",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Comment faire pour descendre du bus ?",
+            "images": "[assets/D1/roman/LeBus-3.0aA.png,assets/D1/roman/LeBus-3.0aB.png]",
+            "choices": [
+             {
+              "lib": "Avancer vers la porte de sortie et attendre",
+              "value": 0
+             },
+             {
+              "lib": "Appuyer sur le bouton pour demander l’arrêt",
+              "value": 1
+             },
+             {
+              "lib": "Appuyer sur le bouton pour demander l’arrêt, avancer vers la porte de sortie et attendre",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D1/roman/LeBus-3.1A.png,assets/D1/roman/LeBus-3.1B.png,assets/D1/roman/LeBus-3.1.2A.png,assets/D1/roman/LeBus-3.1.2B.png,assets/D1/roman/LeBus-3.1.2C.png]",
+              "lib": "Aïe ! Le chauffeur ne savait pas qu’Alice souhaitait descendre. Il doit y avoir quelque chose à faire pour le prévenir…",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D1/roman/LeBus-3.2A.png,assets/D1/roman/LeBus-3.2.1A.png,assets/D1/roman/LeBus-3.2.1C.png,assets/D1/roman/LeBus-3.2.1B.png]",
+              "lib": "Ouf, juste à temps ! En appuyant sur le bouton, Alice a prévenu le chauffeur qu’elle souhaitait descendre. Mais peut-être aurait-elle dû se tenir prête pour ne pas avoir à se précipiter vers la sortie ?",
+              "value": "Average"
+             },
+             {
+              "images": "[assets/D1/roman/LeBus-3.3.0A.png,assets/D1/roman/LeBus-3.3.2A.png,assets/D1/roman/LeBus-3.3.2B.png,assets/D1/roman/LeBus-3.1A.png,assets/D1/roman/LeBus-3.3.3A.png,assets/D1/roman/LeBus-3.3.3B.png]",
+              "lib": "Parfait ! Parfois, même si le bouton a été pressé, le bus ne s'arrête pas (le signal n'a peut-être pas été enregistré). Dans ce cas, tu peux dire à haute voix : &laquo; La porte, s'il vous plaît ! &raquo; Le chauffeur comprendra.",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": "Grâce à toi, Alice est arrivée sur le campus ! Allons maintenant découvrir dans quel environnement elle étudiera cette année."
+         },
+         {
+          "type": "VIDEO",
+          "TITRE": "La visite du campus​",
+          "items": [
+           {
+            "question": "Que devrait faire Alice\u202f? ",
+            "video": "vi5GKLDPSfgemMvWKoLsmQk0",
+            "choices": [
+             {
+              "lib": "Prendre un bonbon rapidement et continuer son chemin ",
+              "value": 0
+             },
+             {
+              "lib": "S’adresser à l'accueil pour demander où se trouvent les toilettes",
+              "value": 1
+             },
+             {
+              "lib": "S'adresser à l'accueil pour se présenter et demander où se trouve la salle de classe dans laquelle elle aura cours le lendemain",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi673aUWjkSKxuyudtWfP1ZQ",
+              "lib": "Ça ne fait jamais de mal de dire bonjour ! La réceptionniste pourrait devenir une alliée de taille pour Alice.\u202f ",
+              "value": "False"
+             },
+             {
+              "video": "vi4lMfTObnXU2HSK6oFTVvKg",
+              "lib": "C'est une bonne idée de savoir où se trouvent les toilettes, mais ce n'est pas la raison pour laquelle Alice est venue sur le campus.\u202f  ",
+              "value": "Average"
+             },
+             {
+              "video": "vi4VVdAAab5rzNK39eXmj3Ls",
+              "lib": "C’est un bon début\u202f! Alice a été polie, claire et précise\u202f!",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice est perdue… Que souhaites-tu qu’elle fasse\u202f? ",
+            "video": "viTXxlusb6ONKkZbSbpirBC",
+            "choices": [
+             {
+              "lib": "Continuer à chercher seule",
+              "value": 0
+             },
+             {
+              "lib": "Retourner à l’accueil pour demander des explications",
+              "value": 1
+             },
+             {
+              "lib": "Interpeller un étudiant et demander son chemin",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi6ihNX2ow33NZlacsFkoEXH",
+              "lib": "Bien sûr, Alice finira probablement par trouver sa classe, mais il existe probablement un moyen plus efficace de le faire... et peut-être pourra-t-elle en plus rencontrer quelqu'un de sympa\u202f! ",
+              "value": "False"
+             },
+             {
+              "video": "viRfumM5Bk0XWolQdvPb9TT",
+              "lib": "La réceptionniste pourra certainement aider Alice à trouver son chemin, mais à moins que le campus ne soit désert, elle n’est probablement pas obligée de refaire tout ce chemin.  ",
+              "value": "Average"
+             },
+             {
+              "video": "vi3I1QH2I1nL4F2XJmVVR2m7",
+              "lib": "Bonne idée\u202f! Les étudiants croisés dans les couloirs peuvent sûrement apporter leur aide. Et c’est peut-être un moyen de rencontrer des gens\u202f!  ",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "video": "vi5ywkj1wCdEUlr9Y5EsuaNv",
+           "action": "next"
+          }
+         },
+         {
+          "type": "BRANCH",
+          "items": [
+           {
+            "lib": "<p>Avec l'aide de ce sympathique étudiant, Alice fait le tour du campus.​Tu pourras toi aussi visiter (virtuellement !) ton campus lorsque tu auras débloqué les bonus du Jour 1 !</p><p>Maintenant, veux-tu accompagner Alice dans sa découverte de la ville ? ",
+            "action": "S1",
+            "img": "[assets/D1/images/Jour1_B_Visiter-la-ville_round.png]",
+            "link": "S3"
+           },
+           {
+            "lib": "\r\n<p>Avec l'aide de ce sympathique étudiant, Alice fait le tour du campus.​​Tu pourras toi aussi visiter (virtuellement !) ton campus lorsque tu auras débloqué les bonus du Jour 1 !</p><p>Maintenant, veux-tu accompagner Alice pour son premier jour de cours ? ",
+            "action": "S5",
+            "img": "[assets/D1/images/Jour1-Conclusion_round.png]",
+            "link": "S3"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_id": "S5",
+        "activities": [
+         {
+          "type": "CONCLUSION",
+          "pic": "file:1,2,3,4,5,6,7,8,50,39,40,41,42,43,44,45,46,47",
+          "CONTENT": "<p>C’était une bonne première journée pour Alice ! Elle a bravé les transports en commun, fait un premier repérage du campus, pratiqué un peu de français au marché et à la boulangerie. Elle peut maintenant confirmer que le pain au chocolat est en effet divin !​</p><p>En l'aidant à traverser cette première journée, tu as complété le <b>Thème 3: Les déplacements</b>. Tu peux maintenant accéder à des ressources bonus depuis ton tableau de bord.</p>",
+          "IMG": "[assets/D1/images/Jour1-Conclusion_round.png]"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_id": "D2",
+      "title": "Jour 2",
+      "resume": "C’est le premier jour de classe ! Alice va rencontrer de nouveaux amis et se familiariser avec son école française. ​​​",
+      "illustration": [
+       "assets/D2/images/Jour2_round.png"
+      ],
+      "sequences": [
+       {
+        "_id": "S0",
+        "activities": [
+         {
+          "type": "INTRO",
+          "pic": "[assets/D2/images/Jour2_round.png]",
+          "TITRE": "Jour 2 - INTRODUCTION​",
+          "INCIPIT": "<p>Après une journée productive hier, Alice est prête à affronter le premier jour de classe ! Elle arrive sur son campus et se sent à l'aise car elle l'a déjà visité hier et a pu repérer sa salle de classe.​</p>\r\n<p>Elle est quand même heureuse et soulagée d'avoir ton soutien. Voyons ce que la journée lui réserve.</p>"
+         }
+        ]
+       },
+       {
+        "_id": "S1",
+        "activities": [
+         {
+          "type": "VIDEO",
+          "TITRE": "EN CLASSE",
+          "items": [
+           {
+            "question": "Que devrait faire\u202fAlice ? ",
+            "video": "vi5I5mCgthSBhi2E78oHKXOG",
+            "choices": [
+             {
+              "lib": "Trouver une chaise loin des autres au fond de la salle",
+              "value": 0
+             },
+             {
+              "lib": "Trouver une chaise disponible à côté de quelqu’un et demander\u202f: &laquo; Is this seat taken? &raquo;",
+              "value": 1
+             },
+             {
+              "lib": "Identifier une personne qui semble sympathique, s’approcher et se présenter",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3E2CeCM3FZqtMecJd7tzVL",
+              "lib": "Alice vient de très loin pour une nouvelle aventure. Ne vaudrait-il pas mieux profiter de cette situation pour se mélanger aux autres étudiants ?",
+              "value": "False"
+             },
+             {
+              "video": "vi72HE8GMGVVPoKXvo3G2PUg",
+              "lib": "Bon début\u202f! Mais que faire pour que la discussion ne s’arrête pas là\u202f?",
+              "value": "Average"
+             },
+             {
+              "video": "vi7iTmQp4OqWfpoUm52Dvscg",
+              "lib": "Alice s’est présentée et cela a brisé la glace. Maintenant elle peut continuer à faire connaissance avec sa voisine de table\u202f!",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice ne comprend pas ce que dit la professeur… Que peut-elle faire\u202f? ",
+            "video": "vi7GIj8ZonQrZkLthsgbFjOx",
+            "choices": [
+             {
+              "lib": "Enregistrer le cours avec son téléphone pour pouvoir le réécouter plus tard",
+              "value": 0
+             },
+             {
+              "lib": "Demander à sa nouvelle camarade si elle pourra recopier ses notes après le cours",
+              "value": 1
+             },
+             {
+              "lib": "Lever le doigt et demander au professeur si elle peut parler un peu moins vite",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3XVnxULMBD4zU2mJVVL2Gr",
+              "lib": "Bien que cela puisse sembler être une bonne solution, pense à tous les enregistrements qu’Alice va devoir réécouter si elle fait cela à chaque cours. De plus, cela est mal vu (voire interdit) d’enregistrer ou de filmer quelqu’un sans son autorisation. Y a-t-il une meilleure option\u202f? ",
+              "value": "False"
+             },
+             {
+              "video": "vi6JxuWEjiTyIpRtNfXBefS2",
+              "lib": "C’est une bonne idée de trouver un «\u202fstudy partner\u202f» mais si elle a besoin de ses notes pour travailler après les cours, cela ne sera peut-être pas toujours simple. Qu’est-ce qu’Alice pourrait faire d’autre\u202f? ",
+              "value": "Average"
+             },
+             {
+              "video": "vi4egyWkZLgsCwddQRAc1lSm",
+              "lib": "Alice a été bien courageuse d’oser prendre la parole ainsi – bravo\u202f! Beaucoup de ses camarades de classe (même ceux dont la langue maternelle est le français) la remercieront. ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Cette situation est inattendue… Comment devrait réagir\u202fAlice ? ",
+            "video": "vi2Hw2YcA7zihNSXxbprsfIo",
+            "choices": [
+             {
+              "lib": "« Oh my god. Are we in elementary school? I'm not doing this! »",
+              "value": 0
+             },
+             {
+              "lib": "« I'll play along, but I'm definitely not happy about it. »",
+              "value": 1
+             },
+             {
+              "lib": "« Haha, this could be fun! Plus, I've been rehearsing how to introduce myself all summer long, so I know what to write down. » ",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi4hiVCTwvXaDj6YwcGQp4on",
+              "lib": "Oui, Alice va surement se sentir un peu idiote et maladroite, mais quel ice breaker ne l'est pas ? Laissons-la essayer de s’amuser un peu ! ",
+              "value": "False"
+             },
+             {
+              "video": "vi7T4gkXHGQTYO287lD6kAU5",
+              "lib": "C’est bien, Alice se prête au jeu. Elle pourrait adopter une attitude positive : ces activités s'avèrent amusantes le plus souvent !",
+              "value": "Average"
+             },
+             {
+              "video": "vih46dNpB4lzonXODDU8LQB",
+              "lib": "Wouhou, c'est le bon état d’esprit ! Avec une attitude si positive, Alice profitera au maximum de son expérience !",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "video": "vi7aKWQAC9U4IPkhLz88tRYN",
+           "action": "home\r\ngoto#SEQ2"
+          }
+         }
+        ]
+       },
+       {
+        "_id": "S2",
+        "activities": [
+         {
+          "type": "INTRO",
+          "INCIPIT": "<p>Alice est heureuse d'avoir rencontré certains de ses camarades de classe et d'avoir participé aux discussions et aux activités. Elle se sent maintenant un peu plus confiante.​</p><p>Elle a une petite pause avant son prochain cours et a prévu de visiter le forum des associations étudiantes et de rencontrer son buddy &mdash; un étudiant français avec qui elle a été mise en contact afin d'avoir de l'aide et des conseils à l'école.​</p><p>Que veux-tu qu'elle fasse en premier ?</p>",
+          "choices": [
+           {
+            "item": "Aller au forum des associations étudiantes​",
+            "value": "goto#S3",
+            "img": "[assets/D2/images/Jour2_A_Forum-des-assos_round.png]"
+           },
+           {
+            "item": "Rencontrer son buddy​",
+            "value": "goto#S5",
+            "img": "[assets/D2/images/Jour2_B_Rencontrer-buddy_round.png]"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_id": "S3",
+        "activities": [
+         {
+          "type": "QUIZZ",
+          "pic": "[assets/D2/images/Jour2_A_Forum-des-assos_round.png]",
+          "TITRE": "LE FORUM DES ASSOCIATIONS ÉTUDIANTES​",
+          "INCIPIT": "<p>Avant son arrivée en France, Alice a reçu quelques informations sur les différentes associations étudiantes à Omnes Education. Aujourd’hui, un forum est organisé pour que tous les nouveaux arrivants puissent choisir l'association qu'ils veulent rejoindre.​</p><p>Il reste un peu de temps à Alice avant son prochain cours. Elle décide de se rendre au forum afin de pouvoir s'impliquer dans la vie du campus. ​</p>",
+          "items": [
+           {
+            "question": "<p>Alice se promène sur le campus. Aujourd’hui c’est le forum des associations\u202f: chaque association étudiante a un stand pour présenter son projet, ses membres et ses activités. Il y a une trentaine d’associations, le campus est rempli d’étudiants qui vont d’un stand à l’autre pour choisir l’association à laquelle ils adhéreront toute l’année. C’est un peu impressionnant pour Alice qui se trouve un peu perdue dans cette cohue. </p><p>Que peut faire Alice pour avoir des renseignements sur les associations présentes\u202f? </p>",
+            "choices": [
+             {
+              "lib": "Observer de loin les stands afin d’essayer de comprendre les activités des associations",
+              "value": 0
+             },
+             {
+              "lib": "Prendre quelques flyers sur les stands pour pouvoir regarder tout ça à tête reposée ",
+              "value": 1
+             },
+             {
+              "lib": "Aborder les étudiants qui sont sur les stands pour leur demander des informations ",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "C'est une bonne première étape : prendre du recul et observer. Cependant, à un moment donné, il faudra bien qu'Alice s'approche d'un stand afin d'obtenir plus d'informations. ",
+              "value": "False"
+             },
+             {
+              "lib": "Avoir un tas de flyers aidera Alice à se faire une idée plus précise des différentes associations disponibles à l'université. Elle doit juste s'assurer qu'elle établit des contacts avec les associations qui l’intéressent avant que les prospectus ne finissent tous dans la poubelle de recyclage\u202f! ",
+              "value": "Average"
+             },
+             {
+              "lib": "Alice peut faire d'une pierre deux coups avec cette approche : elle peut obtenir les informations dont elle a besoin et commencer à se faire des contacts personnels. Elle en profitera même pour pratiquer un peu de français\u202f! Certains cursus de certaines écoles rendent obligatoire l’adhésion et la participation à une association étudiante au cours de l’année\u202f: cette étape de prise d’information n’en sera alors que plus importante\u202f! ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "<p>Alice va de stand en stand pour collecter des informations et comprendre les activités de chaque association. Elle est décidée à en rejoindre une, ça lui permettra de faire des rencontres et de gagner des compétences qu’elle pourra mettre sur son CV. </p><p>Quel type d’association pourrait rejoindre Alice\u202f? </p>",
+            "choices": [
+             {
+              "lib": "Une association où il reste de la place ",
+              "value": 0
+             },
+             {
+              "lib": "Une association dans laquelle les étudiants parlent anglais",
+              "value": 1
+             },
+             {
+              "lib": "Une association dont l’activité lui plait ",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "Quel dommage de choisir par défaut alors qu’il y a tant d’associations différentes\u202f! Si Alice cherche bien et s’y prend suffisamment tôt, il est certain qu’elle trouvera une association dont l’activité lui plait.",
+              "value": "False"
+             },
+             {
+              "lib": "C’est une bonne idée car cela facilitera les échanges d’Alice avec les autres étudiants. Cependant, les projets associatifs demandent beaucoup d’engagement personnel – ce serait dommage de ne pas se consacrer à une activité qui l’intéresse vraiment. ",
+              "value": "Average"
+             },
+             {
+              "lib": "Compte tenu de l’engagement et de l’investissement que demandes les projets des associations étudiantes, il vaut mieux en effet choisir une association dont l’activité te motive.  ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "<p>Alice a fait son choix\u202f: elle rejoint l’association des étudiants internationaux\u202f! Lorsqu’elle a discuté avec la présidente de l’association, elle a été agréablement surprise d’apprendre tout ce qu’organisait cette association. Elle a vraiment hâte de s’y engager\u202f! </p><p>Que peut-elle attendre de cette association des étudiants internationaux\u202f? </p>",
+            "choices": [
+             {
+              "lib": "Rencontrer des étudiants de son pays d'origine ou qui parlent sa langue natale ou encore qui parlent l’anglais, comme elle",
+              "value": 0
+             },
+             {
+              "lib": "Des conseils pour s'intégrer dans la société française",
+              "value": 1
+             },
+             {
+              "lib": "Des sorties, des rencontres, des échanges... cela dépend de son degré d’engagement",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "Il est vrai qu'Alice trouvera probablement d'autres personnes avec lesquelles elle pourra communiquer facilement – et qu'elle trouvera un environnement rassurant au sein de l'association. Mais adhérer à une association, c'est aussi quitter sa zone de confort. \r\n ",
+              "value": "False"
+             },
+             {
+              "lib": "Alice recueillera certainement des conseils et des astuces au sein de l'association. Comment pourrait-elle bénéficier pleinement de son adhésion à cette association ? ",
+              "value": "Average"
+             },
+             {
+              "lib": "Qui ne risque rien n’a rien\u202f! Il est tout à fait possible d'adhérer à une association et de ne rien en retirer si l’on ne participe pas aux activités ou si l’on se répète sans cesse &laquo; J'irai la prochaine fois &raquo;. En revanche, ceux qui s'impliquent peuvent se faire des souvenirs qui dureront toute la vie : sorties, voyages, visites, amis... ",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": "<p>C’est certain, Alice va beaucoup s’amuser cette année\u202f! Elle est très heureuse d’intégrer une association étudiante qui va lui permettre de faire beaucoup de rencontres et de découvrir la culture française\u202f!  </p><p>Alice regarde l’heure – elle a encore un peu de temps devant elle avant son prochain cours. Elle sort dans la cour du campus et croise deux de ses nouveaux camarades de classe. Elle décide de discuter un peu avec eux afin de faire leur connaissance. </p>"
+         }
+        ]
+       },
+       {
+        "_id": "S4",
+        "activities": [
+         {
+          "type": "VIDEO",
+          "TITRE": "LES RELATIONS AMICALES",
+          "items": [
+           {
+            "question": "Que répond Alice ? ",
+            "video": "vi5yFxQwLPUPYOOAeHqKz5Tc",
+            "choices": [
+             {
+              "lib": "«\u202fJe suis désolée, je n'ai pas compris.\u202f» ",
+              "value": 0
+             },
+             {
+              "lib": "«\u202fBien sûr, j'adore les soirées !\u202f»",
+              "value": 1
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi7DbWwGRtIEtfJP2HizXgf4",
+              "lib": "Ce n'est pas simple de comprendre les expressions familières d'une langue étrangère\u202f! Tu apprendras bien vite les mots d'argot français qui te permettront de dialoguer sans problème. L'étudiant demandait à Alice si elle aime sortir faire la fête. Que peut-elle répondre ?",
+              "value": "Average"
+             },
+             {
+              "video": "vimRrN2mw8nJ3UYu9FILy4v",
+              "lib": "C'est certain : si tu as compris ce qu'a dit l'étudiant, tu dois déjà avoir des bases d'argot français ! Dans ce que vient de dire l'étudiant, il y a le mot « meuf ». Il s'agit d'un mot en verlan. Le verlan est un type d'argot qui inverse soit les syllabes d'un mot, soit les sons. «\u202fL’envers\u202f» devient « verlan » (d'où son nom), « fou » devient « ouf » et «\u202ffemme\u202f» devient «\u202fmeuf » ... C'est un peu déstabilisant au départ, mais avec le temps tu vas t'y habituer ! ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice ne comprend pas la discussion… Que peut-elle faire ? ",
+            "video": "vi3kAqsEoUMUZVoAimixfmBt",
+            "choices": [
+             {
+              "lib": "Essayer de comprendre et participer quand elle le peut",
+              "value": 0
+             },
+             {
+              "lib": "Leur demander de lui expliquer ce qu'ils viennent de dire",
+              "value": 1
+             },
+             {
+              "lib": "Leur dire au revoir et aller se promener dans la cour",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi72MOYMNPJvCOJMBqCQkcrb",
+              "lib": "<p>Il n'y a pas de bonne ou mauvaise réponse ici ! Quel que soit le choix que tu feras si tu te retrouves dans cette situation, s'il te convient alors c'est le bon. Plus tu maitriseras le français, plus ce sera facile de rencontrer et devenir ami avec des Français. Mais ça ne sera pas toujours facile, les Français ne feront pas toujours l'effort de passer outre la barrière de la langue. Tu verras peut-être qu'ils auront tendance à rester entre eux. Ça n'est pas de la méchanceté mais plutôt une question d'habitude. Cela peut donc prendre du temps de briser la glace ! </p><p>Peut-être Alice peut-elle trouver d’autres personnes à rencontrer ? Elle va faire un tour dans la cour pour essayer de faire de nouvelles connaissances. </p>",
+              "value": "Correct"
+             },
+             {
+              "video": "vi7gxazRiro7QEhAD3ap90Ye",
+              "lib": "<p>Il n'y a pas de bonne ou mauvaise réponse ici ! Quel que soit le choix que tu feras si tu te retrouves dans cette situation, s'il te convient alors c'est le bon. Plus tu maitriseras le français, plus ce sera facile de rencontrer et devenir ami avec des Français. Mais ça ne sera pas toujours facile, les Français ne feront pas toujours l'effort de passer outre la barrière de la langue. Tu verras peut-être qu'ils auront tendance à rester entre eux. Ça n'est pas de la méchanceté mais plutôt une question d'habitude. Cela peut donc prendre du temps de briser la glace ! </p><p>Peut-être Alice peut-elle trouver d’autres personnes à rencontrer ? Elle va faire un tour dans la cour pour essayer de faire de nouvelles connaissances. </p>",
+              "value": "Correct"
+             },
+             {
+              "video": "viTaB5rpyLXM5lgHauEJzHm",
+              "lib": "<p>Il n'y a pas de bonne ou mauvaise réponse ! Quel que soit le choix que tu feras si tu te retrouves dans cette situation, s'il te convient alors c'est le bon. Plus tu maitriseras le français, plus ce sera facile de rencontrer et devenir ami avec des Français. Mais ça ne sera pas toujours facile, les Français ne feront pas toujours l'effort de passer outre la barrière de la langue. Tu verras peut-être qu'ils auront tendance à rester entre eux. Ça n'est pas de la méchanceté mais plutôt une question d'habitude.  </p><p>Cela peut donc prendre du temps de briser la glace &mdash; mais ce n'est pas une raison pour Alice de baisser les bras et de rester seule. Il y a peut-être d’autres personnes à rencontrer ? Alice va faire un tour dans la cour pour essayer de faire de nouvelles connaissances. </p>",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice n'a pas vu ce film. Que peut-elle faire ? ",
+            "video": "vi357VrjshLcm4NsRA241jwX",
+            "choices": [
+             {
+              "lib": "Les écouter et attendre qu'ils changent de sujet pour voir si elle pourra enfin avoir quelque chose à dire",
+              "value": 0
+             },
+             {
+              "lib": "Leur demander de lui raconter l'histoire pour comprendre et participer à leur discussion",
+              "value": 1
+             },
+             {
+              "lib": "Comprendre de quel genre de film il s'agit pour pouvoir parler d'un film du même genre qu’elle connait",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3kmhYtcDOfBUtQB5nrSMcZ",
+              "lib": "S'intégrer à une discussion n'est pas toujours facile. Cependant, si Alice reste silencieuse, il y a fort à parier que cela sera plus long de faire connaissance et de se lier d'amitié avec quelqu'un. Alors même si elle se sent intimidée, essaye de lui trouver quelque chose à dire. ",
+              "value": "False"
+             },
+             {
+              "video": "vi2ZVbPhrYc2Uo1Rd3j6r4St",
+              "lib": "Alice n'a pas hésité à poser une question pour comprendre le sujet de la discussion, c'est très bien ! Souvent, les gens aiment beaucoup parler des choses qu'ils apprécient : ils seront ravis que tu poses une question pour pouvoir t'en dire plus ! Même si tu ne parles pas un français parfait, tu auras peut-être vu les mêmes films, les mêmes séries ou écouté les mêmes musiques... Partager un ou plusieurs centres d'intérêt avec quelqu'un peut vous permettre de devenir amis ! Maintenant que tu sais de quoi ils parlent, que peut faire Alice ? ",
+              "value": "Average"
+             },
+             {
+              "video": "vi7GZIxevjMDVpAOEuTDzWSE",
+              "lib": "<p>Alice a su comprendre le sujet et rebondir dessus pour participer à la discussion. En plus elle partage un centre d'intérêt avec ces nouvelles connaissances. La prochaine étape ? Leur proposer d'aller tous ensemble au cinéma !</p><p>Tu découvriras qu'en France, les gens ne deviennent pas tout de suite ami avec une personne tout juste rencontrée. D'abord ils deviennent copains (ou «\u202fpotes\u202f»), ça veut dire qu'ils aiment bien passer du temps ensemble, discuter, faire la fête. Lorsque la relation dure dans le temps et devient plus forte, on commence à parler d'amitié. </p> ",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "video": "viH9j0lSTNadEJ8IjQtKQo5"
+          }
+         },
+         {
+          "type": "BRANCH",
+          "items": [
+           {
+            "lib": "<p>Alice a bien fait de s’entrainer à parler français avant d’arriver en France ! Même si certaines conversations étaient difficiles à suivre, Alice a réussi à y participer. ​</p><p>Elle se sent maintenant prête à rencontrer son buddy. ​</p>",
+            "action": "S5",
+            "img": "[assets/D2/images/Jour2_B_Rencontrer-buddy_round.png]",
+            "link": "S5"
+           },
+           {
+            "lib": "<p>Quelle journée ! Alice se sent chanceuse d'avoir rencontré des gens aussi sympathiques. Un garçon qu'elle a rencontré à la cafétéria lui a même proposé de se joindre à lui et à une amie pour dîner au restaurant ce soir. Ce sera la première fois qu’elle va dans un restaurant français &mdash; elle a hâte de goûter des plats typiques !​</p><p>\r\n",
+            "action": "S6",
+            "img": "none",
+            "link": "S5"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_id": "S5",
+        "activities": [
+         {
+          "type": "IMAGES",
+          "pic": "[assets/D2/images/Jour2_B_Rencontrer-buddy_round.png]",
+          "TITRE": "RENCONTRER SON BUDDY​",
+          "INCIPIT": "<p>Il est temps pour Alice de rencontrer son buddy. Elle a échangé quelques emails et messages avec lui, mais ce sera la première fois qu'elle le rencontrera en personne. ​</p><p>Elle a beaucoup de questions à lui poser, mais il y a une chose à laquelle elle n'a pas pensé : la façon dont elle va le saluer...</p>\r\n",
+          "items": [
+           {
+            "question": "<p>Que devrait dire Alice pour saluer l’étudiant à côté de qui elle s’assoit ? </p>",
+            "images": "[assets/D2/roman/Cafette_1.0a.1A.png,assets/D2/roman/Cafette_1.0a.1B.png,assets/shim.png,assets/D2/roman/Cafette_1.0a.2A.png,assets/D2/roman/Cafette_1.0a.2B.png,assets/D2/roman/Cafette_1.0a.2C.png,assets/D2/roman/Cafette_1.0a.2D.png,]",
+            "choices": [
+             {
+              "lib": "«\u202fBonne journée\u202f!\u202f»",
+              "value": 0
+             },
+             {
+              "lib": "«\u202fSalut\u202f!\u202f»",
+              "value": 1
+             },
+             {
+              "lib": "«\u202fBonjour\u202f!\u202f»",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D2/roman/Cafette_1.1.1A.png,assets/D2/roman/Cafette_1.1.1B.png,assets/D2/roman/Cafette_1.1.2A.png,assets/D2/roman/Cafette_1.1.2B.png]",
+              "lib": "Bien essayé ! Mais &laquo; bonne journée &raquo; est une façon de dire &laquo; au revoir &raquo; à quelqu'un. Les gens répondront généralement par &laquo; merci, vous aussi &raquo;. ",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D2/roman/Cafette_1.2.1A.png,assets/D2/roman/Cafette_1.2.1B.png,assets/D2/roman/Cafette_1.2.2A.png,assets/D2/roman/Cafette_1.2.2B.png]",
+              "lib": "«\u202fSalut\u202f» peut fonctionner ici parce qu’Alice est jeune et qu’elle salue une personne jeune. Cependant, comme ils ne se connaissent pas, c'est un tout petit peu trop familier. ",
+              "value": "Average"
+             },
+             {
+              "images": "[assets/D2/roman/Cafette_1.3.1A.png,assets/D2/roman/Cafette_1.3.1B.png,assets/D2/roman/Cafette_1.3.2A.png,assets/D2/roman/Cafette_1.3.2B.png]",
+              "lib": "«\u202fBonjour\u202f» est la meilleure solution lorsque tu ne connais pas la personne que tu salues. Cependant, garde à l'esprit que les gens ne se saluent pas spontanément quand ce n'est pas nécessaire. Par exemple, dans les transports en commun ou dans la rue, inutile de dire « bonjour » à des inconnus, ou ils te regarderont un peu surpris ! ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Comment Alice devrait-elle saluer son buddy\u202f? ",
+            "images": "[assets/D2/roman/Cafette_2.0aA.png,assets/D2/roman/Cafette_2.0aB.png,assets/D2/roman/Cafette_2.0aC.png,assets/D2/roman/Cafette_2.0aD.png]",
+            "choices": [
+             {
+              "lib": "En le prenant dans les bras",
+              "value": 0
+             },
+             {
+              "lib": "En lui faisant la bise",
+              "value": 1
+             },
+             {
+              "lib": "En faisant un petit signe de la main",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D2/roman/Cafette_2.1A.png,assets/D2/roman/Cafette_2.1B.png,assets/D2/roman/Cafette_2.1C.png]",
+              "lib": "Stop ! Les Français ne se prennent jamais dans les bras pour se dire bonjour ! Encore moins dans un contexte formel. ",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D2/roman/Cafette_2.2A.png,assets/D2/roman/Cafette_2.2B.png]",
+              "lib": "<p>Ah... la bise\u202f! Cette façon de se saluer typiquement française peut être un casse-tête pour ceux n’y sont pas habitués\u202f! Il peut y avoir 1 bise, 2 bises, 3 bises ou même 4 bises... Cela dépend généralement de la région dans laquelle on se trouve. Bien que la pandémie ait coupé court à la bise depuis 2020, cela reste très courant de faire la bise à ses amis et sa famille pour se dire bonjour.  </p><p>Cependant, ici le contexte est formel et Alice ne connait pas encore son buddy. Ce n'est donc pas approprié. Dans le doute, attends de voir si la personne à qui tu dis bonjour se penche vers ta joue. </p>",
+              "value": "Average"
+             },
+             {
+              "images": "[assets/D2/roman/Cafette_2.3A.png,assets/D2/roman/Cafette_2.3B.png,assets/D2/roman/Cafette_2.3C.png]",
+              "lib": "Depuis 2020, c’est la façon la plus courante de se saluer dans un contexte où l’on ne connaît pas encore très bien la personne. Avant cela, Alice aurait pu lui serrer la main – c’était une habitude en France lors d’une rencontre dans un cadre formel. Dans un cadre amical, lorsque deux amis garçons se disent bonjour, ils peuvent se serrer la main ou se faire la bise s’ils se connaissent vraiment bien. Lorsque deux amies filles se disent bonjour, elles vont plutôt se faire la bise. Un garçon et une fille amis se feront également la bise. ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Comment Alice peut-elle dire au revoir\u202f? ",
+            "images": "[assets/D2/roman/Cafette_3.0aA.png,assets/D2/roman/Cafette_3.0aB.png,assets/D2/roman/Cafette_3.0aC.png]",
+            "choices": [
+             {
+              "lib": "«\u202fAdieu !\u202f»",
+              "value": 0
+             },
+             {
+              "lib": "«\u202fAu revoir ! »",
+              "value": 1
+             },
+             {
+              "lib": "«\u202fÀ bientôt\u202f! »",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D2/roman/Cafette_3.1.1A.png,assets/D2/roman/Cafette_3.1.1B.png,assets/D2/roman/Cafette_3.1.2A.png,assets/D2/roman/Cafette_3.1.2B.png,assets/D2/roman/Cafette_3.1.2C.png,assets/D2/roman/Cafette_3.1.2D.png]",
+              "lib": "«\u202fAdieu\u202f» est utilisé lorsqu’on ne reverra plus jamais la personne à qui on s’adresse. C’est peut-être un peu radical ici !",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D2/roman/Cafette_3.2.1A.png,assets/D2/roman/Cafette_3.2.1B.png,assets/D2/roman/Cafette_3.2.2A.png,assets/D2/roman/Cafette_3.2.2B.png]",
+              "lib": "<p>«\u202fAu revoir\u202f» ne sera jamais une erreur pour dire au revoir à quelqu’un. Cependant, puisqu’Alice va probablement revoir son buddy bientôt, il y a peut-être une meilleure option…  </p><p>Tu remarqueras par ailleurs que le buddy a répondu «\u202fsalut\u202f» pour dire au revoir. Ce mot fonctionne en effet pour dire bonjour ET au revoir, mais toujours de manière familière. </p>",
+              "value": "Average"
+             },
+             {
+              "images": "[assets/D2/roman/Cafette_3.3.1A.png,assets/D2/roman/Cafette_3.3.1B.png,assets/D2/roman/Cafette_3.3.2A.png,assets/D2/roman/Cafette_3.3.2B.png]",
+              "lib": "<p>«\u202fÀ bientôt\u202f» est la meilleure solution ici car Alice va bientôt revoir son buddy. Tu peux également ajouter «\u202fbonne journée\u202f» : rappelle-toi, lorsqu'il s'agit de politesse dans une interaction, en français ce n'est jamais trop ! D’ailleurs, savais-tu qu'il y a 12 façons de dire &laquo; au revoir &raquo; en français ?!</p>",
+              "value": "Correct"
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "BRANCH",
+          "items": [
+           {
+            "lib": "\r\n\r\n<p>C'était une discussion très utile ! Le buddy d'Alice est une mine d'informations.​</p><p>Ce premier jour d'école commence très bien, mais ce n'est pas encore fini. Alice se dirige maintenant vers le forum des associations étudiantes.​</p>\r\n",
+            "action": "S3",
+            "img": "[assets/D2/images/Jour2_A_Forum-des-assos_round.png]",
+            "link": "S3"
+           },
+           {
+            "lib": "\r\n\r\n<p>Quelle journée ! Alice se sent chanceuse d'avoir rencontré des gens aussi sympathiques. Un garçon qu'elle a rencontré à la cafétéria lui a même proposé de se joindre à lui et à une amie pour dîner au restaurant ce soir. Ce sera la première fois qu’elle va dans un restaurant français &mdash; elle a hâte de goûter des plats typiques !​</p>\r\n",
+            "action": "S6",
+            "img": "[assets/D2/images/Jour2_Restaurant.png]",
+            "link": "S3"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_id": "S6",
+        "activities": [
+         {
+          "type": "VIDEO",
+          "TITRE": "AU RESTAURANT",
+          "items": [
+           {
+            "question": "Quelle est la première chose que devraient faire Alice et ses amis ?",
+            "video": "vi77RrMTILVaozIviUHimDWE",
+            "choices": [
+             {
+              "lib": "Rentrer, aller s'asseoir et attendre qu'un serveur arrive",
+              "value": 0
+             },
+             {
+              "lib": "Rentrer, saluer un serveur et attendre qu'il les place",
+              "value": 1
+             },
+             {
+              "lib": "\r\n\r\nRegarder le menu affiché à l'extérieur pour connaître les prix",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi4Hh2zHxnusfNx5CL6LoZbH",
+              "lib": "On peut s’asseoir à n’importe quelle table en arrivant dans un bar. Mais dans un restaurant, ce n'est pas la meilleure des idées : la table choisie est peut-être déjà réservée.",
+              "value": "False"
+             },
+             {
+              "video": "vi4gXPhOMkJvqRLHvYnRPR4r",
+              "lib": "C'est en effet une très bonne idée de laisser le serveur indiquer où Alice et ses amis peuvent asseoir. Mais sais-tu si le menu de ce restaurant leur convient ?",
+              "value": "Average"
+             },
+             {
+              "video": "vi2nqFwekBJwEERgKlpwsmi9",
+              "lib": "Pour éviter toute mauvaise surprise, pense en effet à vérifier avant d'entrer si le menu et les prix te convienne ! Ensuite, attend qu'un serveur vous indique où vous installer. Il est possible de lui préciser tes préférences : dehors en terrasse, au soleil, près d'une fenêtre, bien au chaud...",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Que devrait faire Alice ?",
+            "video": "vi52eoLoXclKDqdnb6gycShx",
+            "choices": [
+             {
+              "lib": "« Non merci, une carafe d'eau, s’il vous plait. »",
+              "value": 0
+             },
+             {
+              "lib": "Choisir un vin au hasard &mdash; après tout, c'est aussi ça l'aventure !",
+              "value": 1
+             },
+             {
+              "lib": "Demander au serveur quel vin accompagnerait au mieux leurs plats",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vixXpD2JoFokU5izxYDgReZ",
+              "lib": "Bien sûr, tout le monde a le droit de ne pas boire de vin au repas, mais pour le bon déroulement de notre histoire, prétendons qu’Alice souhaite en goûter !",
+              "value": "False"
+             },
+             {
+              "video": "vi5YC5YFcueQGadQaxHNNL8C",
+              "lib": "Pourquoi pas ! Mais Alice risque de choisir un vin qui ne sera pas en accord avec son plat, et ainsi de gâcher le plaisir.",
+              "value": "Average"
+             },
+             {
+              "video": "vi1Dhgr3qOCQNcQbiS8vdgvI",
+              "lib": "<p>Excellente initiative ! Le serveur saura conseiller Alice sur le meilleur vin pour accompagner son plat, ce qui lui permettra d'apprécier son expérience culinaire au maximum !</p><p>Si tu souhaites avoir de l'eau à table, note que demander « une carafe d'eau » te permettra d'avoir de l'eau plate du robinet gratuitement. Si tu préfères une eau minérale, tu demanderas « une bouteille d'eau » qui sera comptée dans l'addition.</p>",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice doit-elle laisser un pourboire ?",
+            "video": "vi1RiQGliNYMuGqw1qrVn5mp",
+            "choices": [
+             {
+              "lib": "Oui, il faut calculer 15% du montant total.",
+              "value": 0
+             },
+             {
+              "lib": "Non, elle va juste payer sa part.",
+              "value": 1
+             },
+             {
+              "lib": "Oui, elle va payer sa part et laisser 2 euros.",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi475Ak44NU05VCJ2Sgzodem",
+              "lib": "En France, le service est inclus dans les prix affichés sur le menu. Les serveurs ne dépendent pas des pourboires pour vivre. Ainsi, il n'est pas habituel ni obligatoire de laisser un pourboire de 15 à 20 % du montant total de l'addition.",
+              "value": "False"
+             },
+             {
+              "video": "viy4JY9uIaDQwwQuGHXWS4W",
+              "lib": "En France, le service est inclus dans les prix affichés sur le menu. Les serveurs ne dépendent pas des pourboires pour vivre. Tu n’as aucune obligation de laisser un pourboire. Cependant, lorsque le service a été bon et agréable, il est bien vu de laisser un petit quelque chose.",
+              "value": "Average"
+             },
+             {
+              "video": "vi2D3WT9zBnO0NB3jd81YQrn",
+              "lib": "<p>Voilà qui fera plaisir au serveur quand il débarrassera la table. Il partagera d'ailleurs tous ses pourboires avec ses collègues à la fin du service.</p><p>Tu n’as aucune obligation de laisser un pourboire car le service est inclus dans les prix des plats. C'est cependant une façon de remercier le serveur et lui signifier que tu as apprécié son travail. Quelques euros suffisent, inutile de te ruiner.</p>",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "video": "vi30dECtsfxZ5JHfWYlr2u8j",
+           "action": "next"
+          }
+         }
+        ]
+       },
+       {
+        "_id": "S7",
+        "activities": [
+         {
+          "type": "CONCLUSION",
+          "pic": "file:9,10,11,12,13,14,48,15,16,17,18,19,20,51",
+          "CONTENT": "<p>Alice est très satisfaite de cette première journée à l’école. Ses cours semblent intéressants, elle a choisi l'association étudiante à laquelle elle veut adhérer, son buddy est cool et la nourriture française est délicieuse.​</p><p>En l'aidant à passer sa deuxième journée, tu as complété le Thème 1 : Sur le campus et le <b>Thème 4 : La vie à la française</b>. Tu peux maintenant accéder à des bonus depuis ton tableau de bord.​</p>",
+          "IMG": "[assets/D2/images/Jour2-Conclusion_round.png]\r\n"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_id": "D3",
+      "title": "JOUR 3",
+      "resume": "Enfin, le week-end est arrivé ! Des démarches administratives, un diner entre amis… Comme d'habitude, Alice a un agenda bien chargé.​​​",
+      "illustration": [
+       "assets/D3/Jour3_round.png"
+      ],
+      "sequences": [
+       {
+        "_id": "S0",
+        "activities": [
+         {
+          "type": "INTRO",
+          "pic": "[assets/D3/Jour3_round.png]",
+          "TITRE": "JOUR 3 - INTRODUCTION​",
+          "INCIPIT": "C’est enfin le week-end ! Alice a un dîner prévu ce soir chez une amie mais avant cela, quelques démarches administratives l'attendent... Alice doit ouvrir un compte en banque et trouver un logement – et rien de tout cela n’a l’air bien simple !​"
+         }
+        ]
+       },
+       {
+        "_id": "S1",
+        "activities": [
+         {
+          "type": "VIDEO",
+          "TITRE": "LA VISITE D'APPARTEMENT",
+          "items": [
+           {
+            "question": "Quelle annonce devrait choisir Alice pour visiter ?",
+            "video": "vi1sfvrI7nuGvz9d42wRnvgq",
+            "choices": [
+             {
+              "lib": "L’annonce d’un studio de 45m² pour 500 € par mois (à Paris)",
+              "value": 0
+             },
+             {
+              "lib": "L’annonce d’un studio vide à 700 €",
+              "value": 1
+             },
+             {
+              "lib": "L’annonce d’un studio meublé provenant d’une agence à 850 €",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi2UmcZoUKRqXDcYBeptJvlO",
+              "lib": "Si une annonce semble trop belle pour être vraie, c’est certainement le cas ! L’immobilier privé peut coûter cher, surtout dans les grandes villes. Pour un studio, il faut compter environ 800 € par mois à Paris et 500 € par mois dans une autre région.",
+              "value": "False"
+             },
+             {
+              "video": "vi5opT30zs8jlWvuZ3tooIJ1",
+              "lib": "La plupart des appartements sont loués vides ; cela signifie qu’il faut y apporter et installer tous les meubles nécessaires (lit, table, chaises, etc.). Cela n’est pas toujours simple lorsqu’on reste peu de temps ou que l'on ne dispose pas d’un gros budget pour l’achat de tout le mobilier. Tu peux préciser ce critère dans tes recherches en ligne.",
+              "value": "Average"
+             },
+             {
+              "video": "vi5T0Emege2CiyWPauS5cN78",
+              "lib": "C’est en effet plus simple d’opter pour un logement déjà meublé – Alice économisera en frais d’installation. L’annonce qu’Alice a choisie a été publiée par une agence. Cela signifie que tous les échanges se feront avec l’agent immobilier et non le propriétaire du logement. Vérifie bien qu’il s’agit d’une vraie agence, en faisant une rapide recherche sur Internet par exemple. Certaines agences se contentent de vendre des listes d’appartement disponibles à la location et n’offrent aucune garantie de résultats. Ces agences, appelées « marchands de liste » sont à éviter. Tu trouveras également des annonces publiées par des particuliers qui sont les propriétaires du logement, auquel cas toutes les transactions se feront en direct et il n’y aura pas de frais supplémentaires.",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice est décidée, elle veut cet appartement ! Que doit-elle faire maintenant ?",
+            "video": "vi4y9Dr00IYr9mpERKG9CVLC",
+            "choices": [
+             {
+              "lib": "Demander si elle peut signer le contrat tout de suite",
+              "value": 0
+             },
+             {
+              "lib": "Dire à l’agent immobilier qu’elle lui enverra son dossier par mail le soir-même",
+              "value": 1
+             },
+             {
+              "lib": "Donner le dossier administratif qu’elle a apporté avec elle à l’agent immobilier",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi6s25pVam95jrjI5aUrw9JU",
+              "lib": "L’appartement plaît beaucoup à Alice et elle souhaite le louer. Il faut maintenant que l’agence et les propriétaires s’assurent qu’elle sera en mesure de payer le loyer tous les mois avant de signer un bail de location avec elle.",
+              "value": "False"
+             },
+             {
+              "video": "vi1seCwUxUutjKmWkxndvlkQ",
+              "lib": "Dans les grandes agglomérations, le marché de l’immobilier est très rapide. Il y a souvent beaucoup de visites prévues dans les tout premiers jours qui suivent la publication de l’annonce et il faut se montrer très réactif lorsqu’un appartement te plaît.",
+              "value": "Average"
+             },
+             {
+              "video": "vi3i7HRC1wezqA7TDa6cDkGf",
+              "lib": "Alice a bien fait de déposer son dossier tout de suite : le marché de l’immobilier est très rapide et d’autres personnes pourraient vouloir louer cet appartement également. C’est maintenant à l’agent immobilier et aux propriétaires de consulter tous les dossiers reçus et de choisir celui qu’ils pensent être le plus « solide ». Les propriétaires veulent se protéger au maximum des défauts de paiement, ils sont donc très exigeants et demandent beaucoup de garanties. Tu trouveras dans les ressources complémentaires tous les éléments devant être inclus dans ton dossier.",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Tout cela représente beaucoup d’argent… Qu’en penses-tu ?",
+            "video": "vi43HFn9e3WW7TmEBpR5wqWj",
+            "choices": [
+             {
+              "lib": "Alice ne doit surtout pas payer, ça doit être une escroquerie.",
+              "value": 0
+             },
+             {
+              "lib": "Aucun problème, ça correspond aux tarifs normaux en France.",
+              "value": 1
+             },
+             {
+              "lib": "Ces frais sont habituels mais Alice doit absolument faire un état des lieux avant la signature du bail.",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi49MSdkmmU1JTgKSoQki2MY",
+              "lib": "C’est usuel de payer des frais d’agence lorsque c’est une agence qui s’occupe des visites et de la signature du bail. Quant au dépôt de garantie (la caution), c’est une somme qui permet aux propriétaires de se protéger en cas de dégradation du logement.",
+              "value": "False"
+             },
+             {
+              "video": "vi47DRs2P8KCJuwxB06PSglJ",
+              "lib": "En effet, lorsqu’on loue un logement en passant par une agence, il faut s’attendre à des frais pour rémunérer les agents immobiliers. Le dépôt de garantie permet aux propriétaires de payer les éventuelles dégradations du logement. Mais comment pourraient-ils prouver que ces dégradations ont été faites par le locataire ? Comment se protéger des abus lorsqu’on est locataire ?",
+              "value": "Average"
+             },
+             {
+              "video": "vi45nNiYcXJfeaAzF1POEHDC",
+              "lib": "C’est un bon réflexe. Les frais d’agences sont normaux lorsqu’une agence a été missionnée pour trouver un locataire. Le dépôt de garantie est tout à fait légal à la signature du bail. Cela permettra aux propriétaires de payer des réparations si l’appartement est dégradé lorsque tu le rends. Le montant est cependant encadré : il ne peut dépasser l’équivalent d’un mois de loyer pour un logement vide ou de deux mois de loyer pour un logement meublé. C’est une somme qui t’est rendue si tu rends le logement dans le même état qu'à ton arrivée. Pour prévenir tout abus, il convient de faire un « état des lieux » avec le propriétaire ou l’agent immobilier. C’est une étape très importante pour s’assurer que vous êtes d’accord sur l’état du logement au moment où tu en prends possession. Vous passerez en revue toutes les pièces du logement et vous noterez vos conclusions sur un document, appelé « état des lieux », que vous signerez tous les deux. Après la signature, si tu constates des éléments qui n’avaient pas été repérés lors de l’état des lieux, tu as 10 jours pour les notifier par courrier recommandé. N’hésite pas alors à prendre des photos.",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "lib": "<p>Bien joué ! Trouver un appartement était une épreuve qu’Alice a passée avec brio !​</p><p>Passons maintenant à une deuxième tâche administrative : il est temps d'ouvrir un compte bancaire français. Alice pourra ainsi cesser de payer de gros frais de change à chaque fois qu'elle retire de l'argent, ou des frais bancaires lorsqu'elle paie avec la carte de son pays d'origine. ​​</p>",
+           "video": "vi36IGX6i21LYS53qytQQeVy",
+           "action": "next"
+          }
+         }
+        ]
+       },
+       {
+        "_id": "S2",
+        "activities": [
+         {
+          "type": "VIDEO",
+          "TITRE": "À LA BANQUE",
+          "items": [
+           {
+            "question": "Que doit donner Alice ?",
+            "video": "vi1kCcLUPaccVddc3bjMjxbM",
+            "choices": [
+             {
+              "lib": "Sa pièce d'identité",
+              "value": 0
+             },
+             {
+              "lib": "Sa pièce d'identité, une attestation de scolarité et les informations bancaires de son pays d'origine",
+              "value": 1
+             },
+             {
+              "lib": "Sa pièce d'identité, un justificatif de domicile et une attestation de scolarité",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3J1XhNVU4zNCANT0iHkWhU",
+              "lib": "Alice a pris sa pièce d'identité, c'est bien. Mais il lui manque quelques documents...",
+              "value": "False"
+             },
+             {
+              "video": "vi6HCeSbezPf8A3TQpXgEH2z",
+              "lib": "Aïe, ce n’étaient pas les bons documents. Il semble qu’il en manque un en particulier…",
+              "value": "Average"
+             },
+             {
+              "video": "vi6bwbmkJy59XHmetbLeyeOG",
+              "lib": "Bravo ! Trois documents sont en effet nécessaires pour ouvrir un compte en banque : une pièce d'identité, un justificatif de domicile et une attestation de scolarité ou une carte d'étudiant. Si tu n'as pas encore de logement définitif, tu peux demander à ton hébergeur de te faire une attestation d'hébergement. Il faudra alors donner une copie de sa pièce d'identité avec l'attestation.",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Que doit répondre Alice à la question du banquier ?",
+            "video": "vi3qPaoo8UElD124tqQV97U5",
+            "choices": [
+             {
+              "lib": "&laquo; A what now ? &raquo;",
+              "value": 0
+             },
+             {
+              "lib": "&laquo; Non merci, ce ne sera pas la peine. &raquo;",
+              "value": 1
+             },
+             {
+              "lib": "&laquo; Oui, je vous remercie. &raquo;",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi6Mhp5UMH4nK8nHPb0Iyn5x",
+              "lib": "Maintenant que tu sais ce qu'est un chéquier, veux-tu qu’Alice en prenne un avec son compte en banque ?",
+              "value": "False"
+             },
+             {
+              "video": "vi1mcCPCLOY0lqKEa9wr2dP3",
+              "lib": "Bien que le chéquier puisse sembler désuet, il est encore très utilisé en France. Alice pourrait en avoir besoin pour payer une inscription à une activité sportive, une consultation chez le médecin… Puisqu'il est gratuit et que le banquier le propose, Alice devrait accepter, cela pourrait lui être utile.",
+              "value": "Average"
+             },
+             {
+              "video": "vi1EX9j8XLH9LmJuwFPMKkH5",
+              "lib": "<p>Le chèque est un moyen de paiement encore très utilisé en France. Tu peux y avoir recours lors d'inscriptions dans des clubs, chez le médecin ou dans des magasins. Attention, dans ce dernier cas, il faudra présenter une pièce d'identité avec ton chèque.</p><p>Note qu'il est interdit de faire un chèque d'un montant plus élevé que tes fonds disponibles à la banque – tu risquerais alors de ne plus avoir le droit d'émettre de chèque pendant 5 ans.</p>",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Quelle carte bleue doit choisir Alice ?",
+            "video": "vi44zffnjBzutvfcJQMKibha",
+            "choices": [
+             {
+              "lib": "Pourquoi choisir une carte de couleur bleue ?",
+              "value": 0
+             },
+             {
+              "lib": "Celle qui lui plaît le plus.",
+              "value": 1
+             },
+             {
+              "lib": "Elle doit d’abord demander les tarifs de chacune des cartes disponibles. ",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi2VODLdMWBOCwwYnhM1KYLN",
+              "lib": "Tu connais maintenant l'histoire des cartes bancaires en France :) Laquelle Alice devrait-elle prendre ?",
+              "value": "False"
+             },
+             {
+              "video": "vi6gESzaIWR9DhrIrslG2nA0",
+              "lib": "<p>Bien que le visuel de ta carte puisse sembler important, l’essentiel n’est pas là. Chaque carte comporte des avantages. Certaines nécessitent un minimum de revenus. Et chaque carte a un coût annuel qui peut vite devenir important.</p>",
+              "value": "Average"
+             },
+             {
+              "video": "viKTwu41vz0lmdOT64spUQa",
+              "lib": "<p>En effet, les cartes bancaires sont payantes et leurs avantages aussi. Le coût est annuel mais lissé mensuellement : un montant correspondant aux options choisies sera prélevé automatiquement chaque mois sur ton compte.</p><p>Il vaut mieux donc y réfléchir attentivement !</p>",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "lib": "<p>Bravo ! Alice a maintenant un compte et plusieurs modes de paiement.​</p><p>Elle est probablement un peu épuisée mentalement maintenant et a besoin de repos et de relaxation. Heureusement qu'elle a été invitée à dîner chez une nouvelle amie ce soir ! Voyons comment ça se passe.​</p>",
+           "video": "[assets/D3/Jour3-Dinner_round.png]\r\n",
+           "action": "next\r\ngoto#SEQ3"
+          }
+         }
+        ]
+       },
+       {
+        "_id": "S3",
+        "activities": [
+         {
+          "type": "VIDEO",
+          "TITRE": "L'INVITATION",
+          "items": [
+           {
+            "question": "Alice est invitée à 19h chez son amie. À quelle heure doit-elle arriver ?",
+            "video": "vi3MLUANimXSWjWdmxEc1yM0",
+            "choices": [
+             {
+              "lib": "À 18h50",
+              "value": 0
+             },
+             {
+              "lib": "À 19h",
+              "value": 1
+             },
+             {
+              "lib": "À 19h15",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi6bSrri4gk32ORTdORcPtsY",
+              "lib": "<p>Oups, la copine d’Alice n’était pas encore prête…</p><p>N'arrive jamais en avance lorsque tu es invité chez quelqu’un en France, même pas de cinq minutes. Tu pourrais embarrasser ton hôte qui n'est peut-être pas encore tout à fait prêt.</p>",
+              "value": "False"
+             },
+             {
+              "video": "vi5Hkyvqy3vC7PfTGXCITfDA",
+              "lib": "Même si ton hôte t’a dit de venir à 19h, cela ne signifie pas que tu doives arriver à l'heure pile. Il se peut en effet que ton hôte ne soit pas encore prêt(e) ! Il ou elle peut avoir besoin de chaque seconde pour se préparer : cacher du bazar dans un placard, passer l'aspirateur à la dernière minute ou encore enfiler des vêtements présentables...",
+              "value": "Average"
+             },
+             {
+              "video": "vi2dxBBUc9DgEaSFfPp8Kofo",
+              "lib": "Arriver avec 5 à 15 minutes de retard à une fête ou un dîner en France n'est pas considéré comme impoli, les Français appellent même cela le &laquo; quart d'heure de politesse &raquo; . C’est une façon de donner un peu plus de temps à l’hôte, car il ou elle a besoin de chaque seconde pour tout préparer. Cependant, n'arrive pas plus tard que cela, ou il faudra t’assurer de prévenir ton hôte que tu as un peu de retard.",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice a-t-elle apporté quelque chose pour son hôte ?",
+            "video": "vi5CIXfxpuWVIQLPbmUHMYT4",
+            "choices": [
+             {
+              "lib": "Non, son hôte n’a rien demandé.",
+              "value": 0
+             },
+             {
+              "lib": "Oui, elle apporte des chips.",
+              "value": 1
+             },
+             {
+              "lib": "Oui, elle apporte une bouteille de vin.",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi50J91qflzRBul7N12igY6B",
+              "lib": "Oups, il ne faut jamais arriver les mains vides à un dîner ou à une fête en France.",
+              "value": "False"
+             },
+             {
+              "video": "viIAVYkXhdvGQJh6sefGRyG",
+              "lib": "Alice a apporté quelque chose avec elle et c'est très bien. Cependant, tu ne sais pas ce que son hôte avait prévu pour l'apéritif et pour le dîner. Ce qu’elle a apporté fait peut-être doublon.",
+              "value": "Average"
+             },
+             {
+              "video": "vi4hzzgnIbXX2KkYibGr8gnP",
+              "lib": "Il ne faut jamais arriver les mains vides à un dîner ou à une fête en France. La plupart des gens arrivent avec quelque chose à boire : du vin, de la bière, du cidre… Une bouteille, c’est suffisant. Ce que tu ramènes pourra être servi à « l’apéro », abréviation d'« apéritif». C’est un moment sacré en France : il y aura toujours un apéro avant diner lorsque tu seras invité•e chez quelqu’un ! C’est un moment convivial où l’on boit un verre d’alcool (ou deux) en même temps que l’on grignote. Parfois, tu seras invité•e à des « apéros dinatoires » où il n’y aura pas de diner : seulement un long apéro !",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice a faim ! Que doit-elle faire maintenant ?",
+            "video": "vi5Wkhaeb4pCgTELDlBM25cP",
+            "choices": [
+             {
+              "lib": "Commencer à manger",
+              "value": 0
+             },
+             {
+              "lib": "Attendre que son amie soit à table. Mais son amie dit « allez-y, commencez à manger tant que c’est chaud », alors elle commence.",
+              "value": 1
+             },
+             {
+              "lib": "Attendre que son amie soit à table. Son amie dit « allez-y, commencez à manger tant que c’est chaud », mais Alice attend quand même.",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi7IJWXJe1Jo2Jn3lSSV6HXt",
+              "lib": "Aïe, c’est un faux-pas. Essaie encore.",
+              "value": "False"
+             },
+             {
+              "video": "vi0dubNsYQGRHKUKE8ybVs4",
+              "lib": "C'est vrai, l’amie d’Alice l’a invitée à commencer, donc ce n'est pas impoli de le faire. Cependant, elle est toujours occupée à apporter les plats et ne peut pas commencer à manger elle-même. Y a-t-il une manière plus polie de faire ?",
+              "value": "Average"
+             },
+             {
+              "video": "vi4lEsDT9KnzfwKmcgSGEpYn",
+              "lib": "<p>Oui, la chose la plus polie à faire est d'attendre que tout le monde soit servi et que l'hôte &laquo; invite &raquo; tout le monde à manger en disant &laquo; bon appétit &raquo; . Cela peut sembler formel mais tu seras probablement confronté•e à différentes situations de dîner, y compris celles qui demandent ce niveau de politesse. Autre chose à retenir : si on te présente un plat pour que tu te serves, prends le morceau le plus proche de toi (on ne choisit pas le plus gros).</p><p>Dernier conseil : avant de te servir une boisson dans ton verre, demande à la table si quelqu'un en veut. Si quelqu'un répond oui, sers-le avant toi.</p>",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {}
+         }
+        ]
+       },
+       {
+        "_id": "S4",
+        "activities": [
+         {
+          "type": "CONCLUSION",
+          "pic": "file:21,22,23,24,25,26,49",
+          "CONTENT": "<p>Quelle belle soirée ! De la bonne nourriture et de la bonne compagnie ! ​</p><p>Il est temps de se reposer, car demain est un autre jour !​</p><p>En aidant Alice pendant son week-end chargé, tu as complété le <b>Thème 2 : La vie sociale</b>. Tu peux maintenant accéder à des bonus depuis ton tableau de bord.​</p>",
+          "IMG": "[assets/D3/Jour3-Conclusion_round.png]\r\n"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_id": "D730",
+      "title": "Jour 730",
+      "resume": "Alice est maintenant une étrangère expérimentée en France. Elle a commencé sa carrière dans une entreprise française - et cela lui réserve quelques surprises !​​​",
+      "illustration": [
+       "assets/D730/images/Jour730_round.jpg"
+      ],
+      "sequences": [
+       {
+        "_id": "S0",
+        "activities": [
+         {
+          "type": "INTRO",
+          "pic": "[assets/D730/images/Jour730_round.jpg]",
+          "TITRE": "JOUR 730 - INTRODUCTION​",
+          "INCIPIT": "<p>Le temps passe vite ! Alice a déjà passé deux ans en France. Elle se sent maintenant chez elle ici et a choisi de prolonger son séjour. ​</p><p>Grâce au réseau professionnel qu'elle a construit depuis son arrivée, elle a eu de bonnes pistes pour plusieurs offres d'emploi et a décroché son premier job dans une entreprise française il n'y a pas si longtemps.​</p><p>Voyons comment les choses se passent dans son nouveau travail.​</p>"
+         }
+        ]
+       },
+       {
+        "_id": "S1",
+        "activities": [
+         {
+          "type": "VIDEO",
+          "TITRE": "LE SAVOIR-VIVRE PROFESSIONNEL",
+          "items": [
+           {
+            "question": "Comment Alice doit-elle saluer son nouveau collègue ? ",
+            "video": "vi7RJgKlDMsC3ejJe5BXahCM",
+            "choices": [
+             {
+              "lib": "Rester assise et dire\u202f: &laquo; Bonjour, comment vas-tu ? &raquo;",
+              "value": 0
+             },
+             {
+              "lib": "Rester assise, tendre la main et dire\u202f: &laquo; Bonjour, comment allez-vous ? &raquo;",
+              "value": 1
+             },
+             {
+              "lib": "Se lever et dire\u202f: &laquo; Bonjour, comment allez-vous ? &raquo;",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3PT7FcUvQYCZZPBQ0lRc96",
+              "lib": "La question du &laquo; vous &raquo; et du &laquo; tu &raquo; peut être un vrai casse-tête si cette distinction n'existe pas dans ta langue maternelle. Ici, le langage corporel et le choix du &laquo; tu &raquo; semble gêner le nouveau collègue d’Alice. Il y a peut-être un meilleur choix à faire... ",
+              "value": "False"
+             },
+             {
+              "video": "vi4TdvY4WBmvtjn5x2jOGNm4",
+              "lib": "Alice s’adresse à son nouveau collègue en utilisant le &laquo; vous &raquo; . C'est la meilleure chose à faire tant qu’elle ne le connaît pas. Il y a une grande chance qu'il l'invite rapidement à le tutoyer &mdash; mais c'est plus prudent d'attendre que cela vienne de lui. Par contre, ce n'était pas très pratique de se serrer la main par-dessus l’ordinateur... ",
+              "value": "Average"
+             },
+             {
+              "video": "viqNgKC0iBxYlDHl4npwIt1",
+              "lib": "Dans une relation professionnelle, il est bien vu d'utiliser le &laquo; vous &raquo; lorsque l'on fait la rencontre de quelqu'un &mdash; quel que soit le titre ou la position hiérarchique de la personne. Dans les grandes entreprises, il peut être également important d'appeler les personnes en utilisant &laquo; monsieur &raquo; ou &laquo; madame &raquo; + le nom de famille. Ton interlocuteur t'invitera à utiliser son prénom s'il le souhaite. Ceci est moins fréquent dans les petites entreprises. ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Alice ne sait pas très bien de quoi parler… Quel sujet pourrait-elle lancer ? ",
+            "video": "vi2BQJMleVr1JzXf1FVviaXa",
+            "choices": [
+             {
+              "lib": "&laquo; Vous allez voter pour qui aux prochaines élections ? &raquo;",
+              "value": 0
+             },
+             {
+              "lib": "&laquo; Vous avez préparé vos présentations pour la prochaine réunion ? &raquo;",
+              "value": 1
+             },
+             {
+              "lib": "&laquo; Qu'est-ce que vous avez prévu le week-end prochain ? &raquo;",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi4dwCFdOUxKdKbX9vF2VDuD",
+              "lib": "Lancer une discussion sur la politique pourrait amener à des débats houleux si les opinions de chacun sont divergentes voire opposées. Les relations professionnelles pourraient s’en voir ainsi affectées. ",
+              "value": "False"
+             },
+             {
+              "video": "vi4YJmCfJfpZ5O0r1CeoTFaX",
+              "lib": "Il est vrai que souvent, le travail sera abordé durant les pauses. Mais une pause est une pause et Alice a le droit de parler d'autre chose !  ",
+              "value": "Average"
+             },
+             {
+              "video": "vi3GAKuaEZFXAKp8J4FVM6Pr",
+              "lib": "<p>Les discussions à propos des activités du week-end permettent de parler culture, hobbies, sport... C'est un lanceur de discussion qui fonctionne à tous les coups ! Cependant, les Français compartimentent leur vie personnelle et leur vie professionnelle, et à moins que tes collègues soient devenus des proches, évite de leur poser des questions trop personnelles.  </p><p>Cela fait partie de la culture d'entreprise à la française de se retrouver entre collègues lors de ses petites pauses. Si tu souhaites t’intégrer, ne reste pas à ton bureau avec ta tasse de café &mdash; cela pourrait être perçu comme légèrement antisocial. </p>",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Comment peut réagir Alice ? ",
+            "video": "vi5ZlgQthGIE4N8bxbVkhRrn",
+            "choices": [
+             {
+              "lib": "Acquiescer et se mettre au travail &mdash; après tout, c'est lui le boss",
+              "value": 0
+             },
+             {
+              "lib": "Expliquer son point de vue et donner des arguments pour le convaincre",
+              "value": 1
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi5ZV7Y4iS3z69S70IWx5gUV",
+              "lib": "Alice a respecté l'avis et les directives de son chef. Elle en a maintenant pour plusieurs heures de travail car elle doit tout reprendre. C'est dommage, car elle avait de bons arguments pour défendre sa proposition. ",
+              "value": "Average"
+             },
+             {
+              "video": "vi5whBbkKj8sHlPvojCOALxD",
+              "lib": "En France, la relation hiérarchique est forte et les Français accordent une très grande importance à ce que dit ou pense leur chef. Cependant, il est tout à fait accepté de manifester son désaccord tant que celui-ci est argumenté et respectueux. Même si le chef a toujours le dernier mot ! ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Que devrait faire Alice ? ",
+            "video": "vi3AtCDrmd9YTeYjhUDVILOQ",
+            "choices": [
+             {
+              "lib": "Refuser poliment et déjeuner rapidement à son bureau",
+              "value": 0
+             },
+             {
+              "lib": "Accepter et proposer un sandwich pour ne pas perdre trop de temps",
+              "value": 1
+             },
+             {
+              "lib": "Accepter et aller au restaurant avec ses collègues",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi3IiryGUfQ7Sp5ZLRQfJEd8",
+              "lib": "La pause déjeuner est en quelque sorte sacrée en France. Certains magasins ferment même entre midi et 14h pour que les employés puissent déjeuner tranquillement ! Si tu souhaites qu’Alice s’intègre, ne loupe pas cette opportunité et invite-la à rejoindre ses collègues ! ",
+              "value": "False"
+             },
+             {
+              "video": "vi55lQVlpFRBU9xuHAL0WZJq",
+              "lib": "Bien entendu, Alice aura parfois une surcharge temporaire de travail et elle voudra déjeuner le plus vite possible pour pouvoir avancer sur son travail. Mais en dehors de ces moments-là, elle a le droit de prendre une vraie pause ! Même ses collègues le disent ;) ",
+              "value": "Average"
+             },
+             {
+              "video": "viXfrnuT7Ltc3fBTZQ9Lg8A",
+              "lib": "<p>Alice fait honneur à la &laquo; pause déjeuner &raquo; et ses collègues en sont ravis ! La pause déjeuner peut parfois paraître longue pour ceux qui n'en ont pas l'habitude : elle dure généralement entre 1h et 2h. C'est un moment très opportun pour discuter de tout et de rien avec ses collègues et faire plus ample connaissance. </p><p>Bien entendu, tout le monde ne va pas au restaurant chaque jour &mdash; chacun fait en fonction de son budget &mdash; mais le déjeuner, qu'il soit pris en dehors du bureau ou dans une salle de pause, est toujours un moment convivial. </p>",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Comment Alice doit-elle faire sa demande ? ",
+            "video": "vi1KaZquDhcUjfeFDIZdKCxH",
+            "choices": [
+             {
+              "lib": "Aller droit au but et faire sa demande sans détour – elle n’a pas beaucoup de temps pour finir sa proposition",
+              "value": 0
+             },
+             {
+              "lib": "Demander à Rémi s’il va bien puis lui faire sa demande",
+              "value": 1
+             },
+             {
+              "lib": "Papoter un petit peu avec Rémi puis lui faire sa demande",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "video": "vi6byKobJxkDHzAKlaX4g7iN",
+              "lib": "Aïe… Rappelle-toi : les Français sont très à cheval sur la politesse dans leurs interactions orales ! ",
+              "value": "False"
+             },
+             {
+              "video": "vi1zZ9LstCLRskqYP2AEErTx",
+              "lib": "Tu t'es souvenu•e que la politesse est de rigueur, c’est bien ! Cependant, pour les Français, des demandes aussi directes peuvent être considérées comme impolies. Essaie autrement. ",
+              "value": "Average"
+             },
+             {
+              "video": "vi54OMd0ICq2ZqBjcXg90PYy",
+              "lib": "Voilà une demande qui ravira n'importe quel français. Et oui, ils ont cette habitude de ne jamais démarrer par le cœur du sujet ! Lorsque tu appelles une personne que tu connais déjà pour lui demander quelque chose, il faut donner l'impression que ça n'est pas pour cette raison que tu la contactes &mdash; ce serait grossier de ne l'appeler que par intérêt. Il convient donc de commencer par demander si la personne va bien, prendre de ses nouvelles, voire prendre des nouvelles de ses proches... Une fois le bavardage passé, tu peux demander ce pour quoi tu téléphonais en premier lieu. ",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": {
+           "lib": "<p>De nouveaux collègues, des discussions intéressantes, des critiques constructives, et surtout, une longue et agréable pause déjeuner… Alice prend goût à l’entreprise à la française !​</p><p>Mais la journée n'est pas encore terminée. Il y a encore une réunion à organiser ! Voyons comment cela se passe.​</p>",
+           "video": "[assets/D3/Jour3-Dinner_round.png]\r\n",
+           "action": "next\r\ngoto#SEQ2"
+          }
+         }
+        ]
+       },
+       {
+        "_id": "S2",
+        "activities": [
+         {
+          "type": "IMAGES",
+          "TITRE": "LES RÉUNIONS",
+          "items": [
+           {
+            "question": "Tout le monde n’est pas arrivé. Que devrait faire Alice ?",
+            "images": "[assets/D730/roman/Reunion-1.0a1A.png,assets/D730/roman/Reunion-1.0a1B.png,assets/shim.png,assets/D730/roman/Reunion-1.0a2A.png,assets/D730/roman/Reunion-1.0a2B.png]",
+            "choices": [
+             {
+              "lib": "Commencer la réunion &mdash; les retardataires rattraperont",
+              "value": 0
+             },
+             {
+              "lib": "\r\nAttendre les retardataires et répéter son speech d'introduction dans sa tête",
+              "value": 1
+             },
+             {
+              "lib": "\r\nProposer un café à ceux qui sont déjà arrivés et bavarder en attendant ",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D730/roman/Reunion-1.1.1A.png,assets/D730/roman/Reunion-1.1.1B.png,assets/shim.png,assets/D730/roman/Reunion-1.1.2A.png,assets/shim.png,assets/D730/roman/Reunion-1.1.3A.png,assets/D730/roman/Reunion-1.1.3B.png,assets/shim.png,assets/D730/roman/Reunion-1.1.4A.png,assets/D730/roman/Reunion-1.1.4B.assets/shim.png,png,assets/D730/roman/Reunion-1.1.5A.png,assets/D730/roman/Reunion-1.1.5B.png,assets/D730/roman/Reunion-1.1.5C.png,assets/D730/roman/Reunion-1.1.5D.png]",
+              "lib": "Bien que la ponctualité soit importante dans le monde professionnel, il y aura toujours des personnes en retard. Afin de garder une ambiance bienveillante et à moins que tout le monde ne soit extrêmement pressé, il vaut mieux attendre quelques minutes pour laisser aux dernières personnes le temps d'arriver. Ainsi, elles ne seront pas mal à l'aise et seront dans de meilleures dispositions pour participer à la réunion.  ",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D730/roman/Reunion-1.2.1A.png,assets/D730/roman/Reunion-1.2.1B.png,assets/shim.png,assets/D730/roman/Reunion-1.2.2A.png,assets/D730/roman/Reunion-1.2.2B.png]",
+              "lib": "Attendre les retardataires est une bonne idée qui va permettre à ces derniers de ne pas se sentir trop inconfortables en arrivant. Et tu te dis sûrement : quitte à attendre, pourquoi ne pas en profiter pour se préparer ? Et bien parce que c'est une occasion en or de sociabiliser et de bavarder avec ses collègues ou business partners. Ce n'est pas un exercice facile mais cela sera certainement bénéfique à la carrière d’Alice. ",
+              "value": "Average"
+             },
+             {
+              "images": "[assets/D730/roman/Reunion-1.3.1A.png,assets/D730/roman/Reunion-1.3.1B.png,assets/shim.png,assets/D730/roman/Reunion-1.3.2A.assets/shim.png,png,assets/D730/roman/Reunion-1.3.3A.png,assets/D730/roman/Reunion-1.3.3B.png]",
+              "lib": "<p>Voilà un excellent moyen de poser une ambiance bienveillante et conviviale pour la réunion. Les retardataires seront reconnaissants à Alice de les avoir attendus et elle a pu en profiter pour sympathiser avec les personnes présentes. </p><p>De manière générale, en France il est très courant de commencer et finir une réunion par des bavardages.</p> ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Le sujet n’était pas prévu mais semble très important… Que doit faire Alice ? ",
+            "images": "[assets/D730/roman/Reunion-2.0a1A.png,assets/D730/roman/Reunion-2.0a1B.png,assets/shim.png,assets/D730/roman/Reunion-2.0a2A.png,assets/D730/roman/Reunion-2.0a2B.png,assets/shim.png,assets/D730/roman/Reunion-2.0a3A.png,assets/D730/roman/Reunion-2.0a3B.png,assets/shim.png,assets/D730/roman/Reunion-2.0a4A.png,assets/D730/roman/Reunion-2.0a4B.png,assets/shim.png,assets/D730/roman/Reunion-2.0a5A.png,assets/D730/roman/Reunion-2.0a5B.png]",
+            "choices": [
+             {
+              "lib": "Laisser les participants échanger, puisque le sujet est important",
+              "value": 0
+             },
+             {
+              "lib": "Essayer de reprendre la parole quand il y a un blanc pour recentrer la discussion",
+              "value": 1
+             },
+             {
+              "lib": "Intervenir dès qu’elle se rend compte que le sujet dérive et inviter ceux qui discutaient à en parler après la réunion",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D730/roman/Reunion-2.1.1A.png,assets/D730/roman/Reunion-2.1.1B.png,assets/shim.png,assets/D730/roman/Reunion-2.1.2A.png,assets/D730/roman/Reunion-2.1.2B.png,assets/D730/roman/Reunion-2.1.2C.png,assets/shim.png,assets/shim.png,assets/D730/roman/Reunion-2.1.3A.png,assets/D730/roman/Reunion-2.1.3B.png,assets/shim.png]",
+              "lib": "Puisque c'est Alice qui a organisé cette réunion, c'est à elle d'en garantir l'efficacité et le timing. Si elle ne parvient pas à couvrir tout l'ordre du jour à cause d'un sujet qui n'était pas prévu, ce n'était peut-être pas le bon choix. ",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D730/roman/Reunion-2.2.1A.png,assets/D730/roman/Reunion-2.2.1B.png,assets/D730/roman/Reunion-2.2.1C.png,assets/D730/roman/Reunion-2.2.1D.png]",
+              "lib": "Tu as raison de vouloir recentrer la discussion sur l'ordre du jour. Après tout, c'est la réunion d’Alice et elle doit être en mesure de couvrir tout ce qu’elle voulait aborder. Mais visiblement, cette façon de faire n’empêche pas ses collègues de continuer à monopoliser la parole... ",
+              "value": "Average"
+             },
+             {
+              "images": "[assets/D730/roman/Reunion-2.3.1A.png,assets/D730/roman/Reunion-2.3.1B.png,assets/shim.png,assets/D730/roman/Reunion-2.3.1C.png,assets/shim.png,assets/D730/roman/Reunion-2.3.2A.png,assets/D730/roman/Reunion-2.3.2B.png,assets/D730/roman/Reunion-2.3.2C.png,assets/D730/roman/Reunion-2.3.2D.png]",
+              "lib": "<p>Il n'est pas rare que les discussions s'animent et dérivent vers des sujets que l’on n’avait pas prévus. Cependant, une réunion a un ordre du jour, des horaires définis et un objectif précis. Tu as donc tout à fait raison de vouloir recentrer la discussion. Comme le sujet est important, Alice propose d'en reparler plus tard. Ses interlocuteurs savent ainsi que leur discussion pourra se terminer. </p><p>Attention : interrompre peut être délicat, surtout si les participants sont plus hauts placés hiérarchiquement. Il faut donc être respectueux et poli. </p>",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "Que faire ?\t ",
+            "images": "[assets/D730/roman/Reunion-3.0aA.png,assets/D730/roman/Reunion-3.0aB.png,assets/shim.png]",
+            "choices": [
+             {
+              "lib": "Continuer la réunion &mdash; quitte à dépasser l'heure &mdash; jusqu'à ce qu'une décision soit prise",
+              "images": "none",
+              "value": 0
+             },
+             {
+              "lib": "Proposer d'envoyer à chaque participant des informations complémentaires et de reporter la prise de décision à la prochaine réunion",
+              "images": "none",
+              "value": 1
+             }
+            ],
+            "feedbacks": [
+             {
+              "images": "[assets/D730/roman/Reunion-3.1.1A.png,assets/D730/roman/Reunion-3.1.1B.png,assets/shim.png,assets/D730/roman/Reunion-3.1.2A.png,assets/D730/roman/Reunion-3.1.2B.png,assets/D730/roman/Reunion-3.1.2C.png,assets/shim.png]",
+              "lib": "Tu as envie que la réunion soit concluante et c'est tout à ton honneur. Cependant, les personnes présentes avaient probablement d'autres choses prévues après la réunion. Penses-tu vraiment qu'en continuant ainsi, Alice va remporter l'adhésion de chacun ? ",
+              "value": "False"
+             },
+             {
+              "images": "[assets/D730/roman/Reunion-3.2.1A.png,assets/D730/roman/Reunion-3.2.1B.png,assets/shim.png,assets/D730/roman/Reunion-3.2.1C.png,assets/shim.png,assets/D730/roman/Reunion-3.2.2A.png,assets/D730/roman/Reunion-3.2.2B.png]",
+              "lib": "Il n'est pas rare en France d'organiser des réunions pour parler d'un sujet et non pas pour prendre une décision. Cela peut sembler être une perte de temps &mdash; d'ailleurs beaucoup de Français le pensent. Cela a même un nom : la &laquo; réunionite &raquo;. Cela peut être frustrant mais il faut s'y faire. Certaines réunions seront plus efficaces que d'autres. Dans tous les cas, il vaut mieux être respectueux des horaires annoncés\u202f: la plupart des participants avait probablement autre chose à faire après cette réunion. ",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": "<p>Tu connais bien Alice maintenant et tu sais qu’elle aime remplir ses journées à ras bord ! Comme si une longue journée de travail ne suffisait pas, elle a décidé en plus d'entamer la procédure de renouvellement de son visa.​</p><p>Cela ne semble pas être une mince affaire… Allons l’aider !​</p>"
+         }
+        ]
+       },
+       {
+        "_id": "S3",
+        "activities": [
+         {
+          "type": "QUIZZ",
+          "TITRE": "LA PRÉFECTURE",
+          "items": [
+           {
+            "question": "<p>Tu peux demander à n'importe quel étranger ce qu'il aime le plus en France, il répondra certainement : &laquo; La préfecture &raquo;. Ok ok, ce n’est pas tout à fait vrai… Mais la préfecture est une sorte de rite de passage et survivre à cette épreuve a de quoi rendre fier n’importe qui ! </p><p>De plus, Alice est heureuse d'entreprendre ces démarches afin de prolonger son séjour en France. </p><p>Cela fait plus d'une semaine qu'elle essaie d'obtenir un rendez-vous à la préfecture pour renouveler son visa. Chaque fois qu'elle clique sur le lien de réservation en ligne, elle reçoit le même message : &laquo; Il n'y a plus de créneau horaire disponible pour votre demande de rendez-vous. Veuillez réessayer ultérieurement. &raquo; </p><p>Comment Alice peut-elle augmenter ses chances d'obtenir un rendez-vous ? </p>",
+            "choices": [
+             {
+              "lib": "Continuer à essayer tous les jours. Si elle ne peut toujours pas obtenir de rendez-vous après quelques jours, elle devra probablement appeler la préfecture et demander un rendez-vous. ",
+              "value": 0
+             },
+             {
+              "lib": "Ouvrir 20 onglets du site web sur son navigateur et rafraîchir chaque onglet toutes les 5 minutes",
+              "value": 1
+             },
+             {
+              "lib": "Essayer de prendre un rendez-vous à différents moments de la journée sur plusieurs jours différents, toujours avec plusieurs onglets ouverts afin de multiplier les chances. Si cela ne fonctionne pas, Alice peut écrire un email ou une lettre formelle. ",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "Si la préfecture a mis en place un système de rendez-vous en ligne, c'est le système à privilégier. Appeler la préfecture en cas d'échec ne vous permettra probablement pas d'obtenir un rendez-vous, ni aucune sympathie. Alice peut cependant essayer d'envoyer un email détaillant ses tentatives répétées et infructueuses. ",
+              "value": "False"
+             },
+             {
+              "lib": "Essayer de prendre un rendez-vous à différentes intervalles peut augmenter les chances d'Alice, mais comme il est peu probable qu'un rendez-vous se libère dans un court laps de temps, il est peu probable qu'elle obtienne des résultats positifs en une seule fois. ",
+              "value": "Average"
+             },
+             {
+              "lib": "Bien que cela puisse sembler exagéré à certains égards, de nombreux étrangers peuvent attester du fait que l'obtention d'un rendez-vous à la préfecture s'apparente à la quête du Graal. Bien sûr, certaines personnes chanceuses obtiendront un rendez-vous du premier coup et sans problème (cela peut dépendre de la préfecture dont elles dépendent). Si Alice n'arrive pas à obtenir un rendez-vous après toutes ces tentatives, elle peut tenter de passer par d'autres canaux : un email, une lettre recommandée, ou même se déplacer directement (en dernier recours). Aucune de ces méthodes ne garantira une place, mais elles montreront au moins qu'elle a fait tout son possible. ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "<p>Alice a réussi à prendre un rendez-vous et à déposer sa demande. L’employé de la préfecture lui a dit qu'elle serait informée lorsque le visa serait prêt et qu'en général, le traitement de la demande prend environ deux mois.  </p><p>Mais cela fait maintenant plus de deux mois qu’elle a déposé sa demande et elle n’a toujours reçu aucune nouvelle. </p>\r\n<p>Que devrait-elle faire ? </p>",
+            "choices": [
+             {
+              "lib": "Attendre. Si elle ne reçoit pas de message, cela signifie que ce n'est pas prêt. Ne dit-on pas que la patience est une vertu\u202f? ",
+              "value": 0
+             },
+             {
+              "lib": "Écrire un email à la préfecture pour demander si son visa est prêt",
+              "value": 1
+             },
+             {
+              "lib": "Appeler la préfecture pour se renseigner sur le statut de sa demande de renouvellement de visa",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "Si cela fait plus de deux mois et qu’Alice n’a pas eu de nouvelles, il est possible que la notification se soit perdue en chemin. ",
+              "value": "False"
+             },
+             {
+              "lib": "C'est une bonne idée qu'Alice suive son dossier. Cependant, si c'est pendant les heures de bureau, il y a un moyen plus direct pour elle de demander des nouvelles. ",
+              "value": "Average"
+             },
+             {
+              "lib": "Parfois, les notifications ne sont tout simplement pas transmises. Il n'est donc pas inutile de donner suite à sa candidature par un appel téléphonique si elle n’a pas reçu de réponse après quelques mois. ",
+              "value": "Correct"
+             }
+            ]
+           },
+           {
+            "question": "<p>C'est une bonne chose qu'Alice ait contacté la préfecture. Elle a tout de suite obtenu un rendez-vous pour récupérer son visa. Le jour du rendez-vous, elle arrive à la préfecture en avance – juste le temps de s’assurer qu’elle a pris tous les documents nécessaires avec elle. </p>\r\n<p>Quels documents Alice a-t-elle apportés à la préfecture ? </p>",
+            "choices": [
+             {
+              "lib": "Son passeport, une copie imprimée de sa convocation, son titre de séjour actuel et un timbre-poste",
+              "value": 0
+             },
+             {
+              "lib": "Son passeport, un PDF de sa convocation pour le rendez-vous, son visa actuel, son récépissé, et une petite photo",
+              "value": 1
+             },
+             {
+              "lib": "\r\nSon passeport, un PDF de sa convocation pour le rendez-vous, son visa en cours, son récépissé, et son timbre électronique",
+              "value": 2
+             }
+            ],
+            "feedbacks": [
+             {
+              "lib": "Alice ferait mieux de regarder plus attentivement la liste des documents requis ! Il lui fallait bien un timbre, mais pas un timbre-poste. C’est un timbre fiscal ou timbre électronique qu’il faut prévoir – c’est un moyen de paiement souvent utilisé par les administrations françaises. De plus, il n'est pas nécessaire d’imprimer sa convocation &mdash; un PDF sur le téléphone suffit.  ",
+              "value": "False"
+             },
+             {
+              "lib": "C'est à peu près tout ce qu'il faut, mais il lui manque le timbre fiscal / timbre électronique, qui est le paiement pour le visa. Ce n'est pas grave si Alice ne l'a pas encore. Il est possible de l'acheter à la préfecture (dans la plupart des cas !), mais cela signifie qu’elle devra faire la queue pour cela avant de faire la queue pour son rendez-vous. De plus, il n'est pas nécessaire de fournir une photo &mdash; elle l'avait déjà présentée lors de son premier rendez-vous. ",
+              "value": "Average"
+             },
+             {
+              "lib": "Bravo ! Voici tous les documents nécessaires pour obtenir son nouveau visa. Bien que la procédure ait pris du temps, récupérer le visa devrait maintenant être un jeu d'enfant. ",
+              "value": "Correct"
+             }
+            ]
+           }
+          ],
+          "CONCLUSION": "Félicitations à toi et à Alice ! Elle a obtenu son visa et tu as été à ses côtés à chaque étape du processus ! Tu es dorénavant paré pour tes propres démarches administratives en France.  "
+         }
+        ]
+       },
+       {
+        "_id": "S4",
+        "activities": [
+         {
+          "type": "CONCLUSION",
+          "pic": "file:27,28,29,30,31,32,52,33,34,35,36,37,38,53",
+          "CONTENT": "<p>Félicitations ! Tu as aidé Alice tout au long de son séjour et elle est dorénavant suffisamment équipée pour continuer sa vie en France. ​​</p><p>Tu as terminé le jeu et complété le Thème 5 : La vie professionnelle et le <b>Thème 6 : L’administration française</b> ! ​​</p><p>Nous espérons que tu as apprécié cette expérience et que tu es désormais mieux armé pour entreprendre ce voyage. De nombreuses ressources sont à votre disposition, accessibles depuis ton dashboard.​</p><p>Bonne chance dans tes projets ! Nous sommes très heureux que tu ais choisi de nous rejoindre. N'hésite pas à explorer cette plateforme à ta guise. Nous espérons qu'elle t’a été utile !​</p>",
+          "IMG": "[assets/D730/images/Jour730-Conclusion_round.png]"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }

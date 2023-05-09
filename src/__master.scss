@@ -1,0 +1,53 @@
+$red:#e9041e;
+$orange: #ee3b45;
+$dark:#010035;
+$light:#f2f2f2;
+$color-choice: rgb(122,199,194);
+$purple: rgb(70, 48, 112);
+$turquoise: #7bc7c1;
+$midgray: #999999;
+$lightgray: #e6e6e6;
+$logo:'./images/logo.svg';
+$max-width-med: 620px;
+$header-height: 100px;
+$sidebar-width: 350px;
+
+$progress-height: 6px;
+$progress-height-md: 4px;
+
+$sidebar-width-md: 250px;
+$sidebar-width-sm: 200px;
+$header-height-sm: 75px;
+$header-height-tiny: 50px;
+
+$tab-width: 290px;
+$tab-width-md: 220px;
+$tab-width-sm: 70px;
+
+$device-large: 1680px;
+$device-medium: 1440px;
+$device-small: 1024px;
+$device-mobile: 768px;
+
+$bounceEase: cubic-bezier(0.64, 0.57, 0.67, 1.53);
+
+$font-title:'Montserrat';
+$font-content:'Source Sans Pro';
+
+
+.main-title{
+    font-family: $font-title;
+    width: 90%;
+    margin: auto;
+}
+.main-title::after{
+    content:"";
+    display: block;
+    margin-top: 10px;
+    width: 10%;
+    height: 3px;
+    border-radius: 20px;
+    position: relative;
+    left:45%;
+    background-color: $red;
+}

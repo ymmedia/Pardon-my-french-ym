@@ -1,0 +1,162 @@
+@import '../../_master.scss';
+.nav{
+    width: 100vw;
+    height: 100px;
+    position: fixed;
+    top:0;
+    left: 0;
+    background-color: #333333;
+    display: flex;
+    justify-content: flex-start !important;
+    align-items: center;
+    z-index: 100;
+    & .midScreen-item{
+       //width: 180px;
+       text-align: left;
+       text-transform: uppercase;
+    }
+    & .logo{
+        padding: 0.5%;
+        //height: 40%;
+        width: 150px;
+        margin-left:60px;
+        background-position: center;
+        background-size: 50%;
+        background-repeat: no-repeat;
+
+    }
+    & .active-seq{
+        //border:1px solid white;
+        display:flex;
+        align-items: center;
+        & > p{
+            font-family: 'Permanent Marker', cursive;
+            text-align: left;
+            font-size: 1.2rem;
+            margin-left: 10px;
+            color:white;
+            & >span{
+                font-family: $font-title;
+                font-weight: 700;
+            }
+        }
+    } 
+   & .baseline-header{
+        font-family: 'Permanent Marker', cursive;
+        font-size: 2rem;
+        color:white
+    }
+    & .logo-small{
+        padding: 0.5%;
+        width: 150px;
+        background-position: center;
+        background-size: 50%;
+        background-repeat: no-repeat;
+    }
+
+    & .titre-nav{
+        font-family: 'Permanent Marker', cursive;
+        //border:1px solid white;
+        color:white;
+        font-size: 1.3rem;
+        text-align: left;
+        width: auto;
+        margin-left: 20px;
+        max-height: 70px;
+        overflow: hidden;
+    }
+    & .l-separator{
+        width:3px;
+        height: 40px;
+        margin-left: 20px;
+        border-radius:2px;
+        background-color: white;
+    }
+    & .m-separator{
+        width: 300px;;
+        display: none;
+    }
+    & .menu-drawer{
+        float: left;
+        text-align: left;
+        text-transform: uppercase !important;
+        & .menu-icon{
+            color: white !important;
+        }
+    }
+    & .m-bloc{
+        //border:1px solid black;
+        & .m-item{
+           text-transform: uppercase;
+        }
+    }
+}
+.drawer-list{
+    font-family: $font-content !important;
+    font-size: 18px;
+    color: $lightgray !important;
+    text-transform: uppercase !important;
+    & .drawer-item-actif{
+        color: $dark !important;
+
+    }
+}
+.drawer-list >div:hover{
+       background-color: rgba(200,5,24,0.17);
+     }
+.drawer-title{
+    font-family: $font-content !important;
+    font-size: 22px;
+    color: $dark !important;
+    font-weight: bold !important;
+    //padding-bottom: 20px !important;
+}
+
+@media only screen and (max-width: 1500px) and (min-device-width: 480px) {
+    .nav{
+        .MuiTypography-body2{
+            font-size: 0.7rem;
+        }
+    }
+    
+}
+@media only screen and (max-width:1200px){
+    .nav{
+        & .titre-nav{
+            
+        }
+        & .m-separator{
+            width: 20px;
+            //border:1px solid red;
+        }
+        & .m-bloc{
+           
+            width:115px;
+            text-align: left;
+            & .m-item{
+                //border:1px solid red;
+                font-size: 10px !important;
+            }
+            
+        }
+    }
+
+
+}
+@media only screen and (max-height: 800px) and (max-width:1100px) {
+    .nav{
+        & .logo-small{
+            width:100px;
+        }
+        & .titre-nav{
+            font-size: 1rem;
+            //text-align: justify;
+            margin-right: 5px;
+        }
+        & .active-seq{
+            & >p{
+                font-size: 1rem;
+            }
+        }
+    }
+}
